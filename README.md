@@ -48,7 +48,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 
 3. Nutze Deepresearch um die Quellen zu prüfen
 
-4. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind finden sie Möglichkeiten die noch nicht zugänglichen Quellen in quellen.pdf dem Gericht zugänglich zu machen
+4. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in quellen.pdf, dem Gericht zugänglich zu machen
 
    
 ## Mitwirkung
