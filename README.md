@@ -59,3 +59,5 @@ Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen,
 - Du inhaltliche Ergänzungen zu den 15 Verbotsgründen hast.
 - Du fehlerhafte Zitate oder Inkonsistenzen in den Fragmente-Dateien findest.
 - Du Vorschläge zur Struktur oder zum Aufbau der Klageschrift hast.
+
+https://afd-verbot.de
