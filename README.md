@@ -46,13 +46,11 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
    - Suche in den `.txt`-Fragmenten nach spezifischen Begriffen (z. B. "paramilitär", "Verschwörung").
    - Vergleiche die Entwurfsklauseln in den PDFs für Sachverhalts- und Rechtsbegründungskapitel.
 
-3. **Erstellung der Klageschrift**
-   - Führe die Kapitel aus den Entwürfen zusammen und ergänze Zitate aus den Gutachten.
-   - Verwende `quellen.pdf` zur einheitlichen Zitierweise.
+3. Nutze Deepresearch um die Quellen zu prüfen
 
-4. **Versionskontrolle**
-   - Speichere Änderungen im Master-Dokument (z. B. `Klaegeschrift_Final.docx`) mit nachvollziehbaren Commit-Nachrichten.
+4. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind finden sie Möglichkeiten die noch nicht zugänglichen Quellen in quellen.pdf zugänglich zu machen
 
+   
 ## Mitwirkung
 
 Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen, wenn:
