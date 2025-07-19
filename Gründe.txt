@@ -1,0 +1,68 @@
+Hier alle 15 Verbotsgründe mit der jeweiligen Quelle:
+
+1. **Verfassungswidrige Zielsetzung**
+   – Die AfD strebt eine ethnisch‑kulturell homogene „Volksgemeinschaft“ statt Pluralismus an.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 1)&#x20;
+
+2. **Systematische Hetze und Menschenfeindlichkeit**
+   – Regelmäßige Diffamierung von Migrant\:innen, Muslim\:innen, Schwarzen und Queers als „Fremdkörper“ oder „Invasion“.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 2)&#x20;
+
+3. **Antisemitische Codes und Verschwörungsmythen**
+   – Nutzung historischer Chiffren („Systemmedien“, „Wölfe“) und antisemitischer Motive zur Delegitimierung pluralistischer Institutionen.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 3)&#x20;
+
+4. **Beziehungen zu rechtsextremen Netzwerken**
+   – Personelle und organisatorische Verzahnung mit dem „Flügel“ um Höcke, der Identitären Bewegung und paramilitärischen Gruppierungen.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 4)&#x20;
+
+5. **Paramilitärisches Potenzial**
+   – Aufbau inoffizieller „Verteidigungsformationen“ und Kooperation mit rechtsextremen Kampfsportgruppen.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 5)&#x20;
+
+6. **Gefährdung der öffentlichen Sicherheit und Ordnung**
+   – Aufrufe zu bewaffneten Bürgerwehren und Missachtung polizeilicher sowie gerichtlicher Anweisungen.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 6)&#x20;
+
+7. **Angriff auf Rechtsstaat und Gewaltenteilung**
+   – Systematisches Infragestellen von Gerichten, Verfassungsorganen (z. B. Rundfunkrat) und öffentlich‑rechtlichen Medien.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 7)&#x20;
+
+8. **Untergrabung demokratischer Prozesse**
+   – Einsatz von Bot‑Netzen und Microtargeting auf Social Media zur Manipulation öffentlicher Debatten.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 8)&#x20;
+
+9. **Verletzung von Minderheitenrechten**
+   – Forderungen nach Aberkennung der Staatsbürgerschaft, Abschiebungen und Einschränkung kultureller Freiheiten.
+   – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 9)&#x20;
+
+10. **Delegitimierung und Spaltung der Gesellschaft**
+    – Diffamierung von NGOs und zivilgesellschaftlichen Akteuren als „Regierungswerkzeuge“.
+    – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 10)&#x20;
+
+11. **Verletzung der Menschenrechtsprinzipien**
+    – Missachtung von Asylrecht, Glaubens‑ und Meinungsfreiheit zugunsten eines exklusiven Volksbegriffs.
+    – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 11)&#x20;
+
+12. **Unfähigkeit zur innerparteilichen Abgrenzung**
+    – Keine wirksamen Disziplinarmaßnahmen gegen verfassungsfeindliche Flügel oder Mitglieder.
+    – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 12)&#x20;
+
+13. **Gerichtliche Einstufung als Verdachts‑ bzw. Beobachtungsfall**
+    – Einstufung durch BfV und Verwaltungsgerichte bestätigt rechtsextremistische Grundausrichtung.
+    – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 13)&#x20;
+
+14. **Präzedenzfälle und Verfassungsschutzkriterien**
+    – Erfüllen aller Voraussetzungen des BVerfG‑Dreistufentests gemäß Art. 21 GG.
+    – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 14)&#x20;
+
+15. **Keine marginale Gruppierung**
+    – Anders als bei der NPD verfügt die AfD über substantielle Organisations‑ und Mobilisierungskraft.
+    – Quelle: *Gründe für ein AfD‑Verbotsverfahren* (Punkt 15)&#x20;
+
+---
+
+**Zusätzliche zentrale Quellenübersicht**
+– *Entwurf Klageschrift – Erweiterter Sachverhalt*&#x20;
+– *Entwurf Klageschrift – Ausführliche Rechtsbegründung*&#x20;
+– **Quellenliste „AfD‑Parteiverbot“** (Deep‑Research‑Memo)&#x20;
