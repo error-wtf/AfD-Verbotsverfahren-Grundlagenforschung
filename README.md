@@ -60,4 +60,62 @@ Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen,
 - Du fehlerhafte Zitate oder Inkonsistenzen in den Fragmente-Dateien findest.
 - Du Vorschläge zur Struktur oder zum Aufbau der Klageschrift hast.
 
+---
+
+Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist ja nur nach alter Antifa-Manier, Antifa ist Handarbeit, nur eingescannt worden. Das bereitet KI dadurch Probleme es zu in Gänze zu lesen. Deshalb habe ich ein Python-Script mit Tesseract und OCR drüber laufen lassen und die Bilder als Text-Form gespeichert. Die Textform hat trotz spezieller Tricks zur besseren Verarbeitung kleine Typo-Fehler. Aber mit den originalen PDF (in gesplitteter Form - wegen der Ausgabenbegrenzung von KI) kann die KI den Inhalt zu 96% erfassen. Da ein Verbotsverfahren realistisch bis zu 3 Jahren dauert, können Anwaltskanzleien, oder Interessierte nun KI's damit füttern. Ich habe gleich mal einen Anfang einer Klageschrift, mögliche noch unter Verschluss liegende Quellen die nötig sind, eine Presseschau und Gründe für ein Verbot beigefügt. Da das Ganze bis zu 3 Jahren dauern würde und dann die nächsten Bundestagswahlen sind, und vorraussichtlich die AfD dann sehr viele Stimmen bekommt, sollte man JETZT damit anfangen. Auch wenn gerade der Mantel des Schweigens drüber gelegt ist und Dobrindt mit seiner Konservativen Revolution (man googel mal den Ursprung dieses Begriffes auf Wikipedia) alles andere als aktiv wird, sollte man eigentlich nun (auch wenn der Leak aus ner blöden Ecke kommt) eigentlich dieses Thema vorranbringen. Denn wenn die Afd erstmal an der Macht ist, bleibt wahrscheinlich nicht mehr viel, um deren Faschismus noch zu stoppen.
+
+---
+
+Hier alle 15 Verbotsgründe:
+
+1. Verfassungswidrige Zielsetzung
+– Die AfD strebt eine ethnisch‑kulturell homogene „Volksgemeinschaft“ statt Pluralismus an.
+
+2. Systematische Hetze und Menschenfeindlichkeit
+– Regelmäßige Diffamierung von Migrant\:innen, Muslim\:innen, Schwarzen und Queers als „Fremdkörper“ oder „Invasion“.
+
+3. Antisemitische Codes und Verschwörungsmythen
+– Nutzung historischer Chiffren („Systemmedien“, „Wölfe“) und antisemitischer Motive zur Delegitimierung pluralistischer Institutionen.
+
+4. Beziehungen zu rechtsextremen Netzwerken
+– Personelle und organisatorische Verzahnung mit dem „Flügel“ um Höcke, der Identitären Bewegung und paramilitärischen Gruppierungen.
+
+5. Paramilitärisches Potenzial
+– Aufbau inoffizieller „Verteidigungsformationen“ und Kooperation mit rechtsextremen Kampfsportgruppen.
+
+6. Gefährdung der öffentlichen Sicherheit und Ordnung
+– Aufrufe zu bewaffneten Bürgerwehren und Missachtung polizeilicher sowie gerichtlicher Anweisungen.
+
+7. Angriff auf Rechtsstaat und Gewaltenteilung
+– Systematisches Infragestellen von Gerichten, Verfassungsorganen (z. B. Rundfunkrat) und öffentlich‑rechtlichen Medien.
+
+8. Untergrabung demokratischer Prozesse
+– Einsatz von Bot‑Netzen und Microtargeting auf Social Media zur Manipulation öffentlicher Debatten.
+
+9. Verletzung von Minderheitenrechten
+– Forderungen nach Aberkennung der Staatsbürgerschaft, Abschiebungen und Einschränkung kultureller Freiheiten.
+
+10. Delegitimierung und Spaltung der Gesellschaft
+– Diffamierung von NGOs und zivilgesellschaftlichen Akteuren als „Regierungswerkzeuge“.
+
+11. Verletzung der Menschenrechtsprinzipien
+– Missachtung von Asylrecht, Glaubens‑ und Meinungsfreiheit zugunsten eines exklusiven Volksbegriffs.
+
+12. Unfähigkeit zur innerparteilichen Abgrenzung
+– Keine wirksamen Disziplinarmaßnahmen gegen verfassungsfeindliche Flügel oder Mitglieder.
+
+13. Gerichtliche Einstufung als Verdachts‑ bzw. Beobachtungsfall
+– Einstufung durch BfV und Verwaltungsgerichte bestätigt rechtsextremistische Grundausrichtung.
+
+14. Präzedenzfälle und Verfassungsschutzkriterien
+– Erfüllen aller Voraussetzungen des BVerfG‑Dreistufentests gemäß Art. 21 GG.
+
+15. Keine marginale Gruppierung
+– Anders als bei der NPD verfügt die AfD über substantielle Organisations‑ und Mobilisierungskraft.
+
+---
+
+Alle Quellenangaben sind in den Dateien enthalten.
+
+
 https://afd-verbot.de
