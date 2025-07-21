@@ -393,3 +393,13 @@ Wikipedia
 ---
 
 https://afd-verbot.de 
+
+---
+Was weiterhin fehlt, um die Sammlung „gerichtsfest“ zu machen
+Kategorie	Fehlendes Element	Bezugsweg
+NPD-Urteils-Volltext	PDF-Fassung BVerfGE 123, 267 ff.	juris / BVerfG-Anfrage
+Whistleblower-Protokolle	Beglaubigte UA-Protokolle nach § 44 GG	Ausschuss-Antrag
+Interne E-Mail/Chat-Logs	Originaldateien oder beglaubigte Auszüge	§ 43 BVerfGG-Antrag
+Audio/Video-Mitschnitte	Vollständige, offiziell verbriefte Clips	Bundestagsmediathek / BMI-Anfrage
+Externe Sachverständigen-gutachten	PDF-Downloads (Uni Jena, Humboldt etc.)	Bibliothek / Direktanforderung an Institute
+Social-Media-Rohdaten	Vollständige Twitter/Telegram-Exporte inkl. Hash-Log	Developer-API / Telethon / Channelscraper
