@@ -206,3 +206,113 @@ Werkzeuge: Channelscraper oder Telethon-Library → Vollständiger Export von Ka
 Chain-of-Custody
 
 Beweis­sicherung: Erzeugung und Dokumentation von SHA-256-Hashes für jede exportierte Datei unmittelbar nach Download.
+
+---
+* **Grundgesetz Art. 21 Abs. 2**
+  [https://www.gesetze-im-internet.de/gg/art\_21.html](https://www.gesetze-im-internet.de/gg/art_21.html)
+
+* **§ 43 ff. BVerfGG**
+  [https://www.gesetze-im-internet.de/bverfgg/\_\_43.html](https://www.gesetze-im-internet.de/bverfgg/__43.html)
+
+* **BVerfG-Urteil „NPD II“ (2 BvR 1077/15, 15. Februar 2017; BVerfGE 123, 267 ff.)**
+  [https://www.bverfg.de/e/rs20170215\_2bvr107715.html](https://www.bverfg.de/e/rs20170215_2bvr107715.html)
+
+* **BVerfG-Urteil „KPD-Verbot“ (1 BvR 61/54, Juli 1956; BVerfGE 5, 85)**
+  [https://www.bverfg.de/e/rs19560717\_1bvr061054.html](https://www.bverfg.de/e/rs19560717_1bvr061054.html)
+
+* **BVerfG-Urteil „SRP-Verbot“ (1 BvR 147/51, Juli 1952; BVerfGE 2, 1)**
+  [https://www.bverfg.de/e/rs19520717\_1bvr014751.html](https://www.bverfg.de/e/rs19520717_1bvr014751.html)
+
+* **Verfassungsschutzbericht 2023 (BfV)**
+  [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?\_\_blob=publicationFile\&v=10](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?__blob=publicationFile&v=10)
+
+* **Verfassungsschutzbericht 2024 (BfV)**
+  [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?\_\_blob=publicationFile\&v=4](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4)
+
+* **BKA-Bericht „Politisch motivierte Kriminalität 2024“**
+  PDF: [https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Deliktsbereiche/PMK/2024PMKFallzahlen.pdf?\_\_blob=publicationFile\&v=2](https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Deliktsbereiche/PMK/2024PMKFallzahlen.pdf?__blob=publicationFile&v=2)
+  Übersicht: [https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMKZahlen2024/PMKZahlen2024\_node.html](https://www.bka.de/DE/UnsereAufgaben/Deliktsbereiche/PMK/PMKZahlen2024/PMKZahlen2024_node.html)
+
+* **Bundeswahlleiter – Abschlussbericht Bundestagswahl 2025**
+  [https://www.bundeswahlleiterin.de/dam/jcr/cb7780a8-0e25-46d1-90c8-dee397033936/btw25\_heft2.pdf](https://www.bundeswahlleiterin.de/dam/jcr/cb7780a8-0e25-46d1-90c8-dee397033936/btw25_heft2.pdf)
+
+* **Bundestagsdrucksache 20/010 (Sicherheitspaket-Anhörung, 23 Sep 2024)**
+  [https://dserver.bundestag.de/btd/20/010/2001020.pdf](https://dserver.bundestag.de/btd/20/010/2001020.pdf)
+
+* **Plenarprotokoll 203. Sitzung (5 Dez 2024 – VfS-Anhörung)**
+  [https://dserver.bundestag.de/btp/20/20203.pdf](https://dserver.bundestag.de/btp/20/20203.pdf)
+
+* **„Ethnokultur-Papier / Geheimplan gegen Deutschland“ – Correctiv-Leak (10 Jan 2024)**
+  (nicht öffentlich verfügbar; siehe Correctiv-Recherche-Portal)
+
+* **VS-Geheimgutachten Teil A & B (2023/2025; VS-Stufe)**
+  (geheimschutzvertraulich; Akteneinsicht nach § 43 BVerfGG)
+
+* **CeMAS-Studie „Fraternity, Fitness and Fascism: Active Clubs in Germany“ (19 Jun 2024)**
+  [https://www.cemas.io/studies/fraternity-fitness-and-fascism-active-clubs-in-germany.pdf](https://www.cemas.io/studies/fraternity-fitness-and-fascism-active-clubs-in-germany.pdf)
+
+* **Center for Digital Action – Report 06/2025**
+  (bitte direkt beim Center auf [https://digitalaction.org](https://digitalaction.org) anfragen)
+
+* **MDR Investigativ: „Thüringer Chat-Leaks“ (14 Apr 2025)**
+  [https://www.mdr.de/investigativ/chat-leaks-afd-thueringen-100.html](https://www.mdr.de/investigativ/chat-leaks-afd-thueringen-100.html)
+
+* **Reuters: „Russian Disinformation ‘Doppelgänger’“ (20 Jan 2025)**
+  [https://www.reuters.com/article/russia-disinfo-doppelganger-idUSKBN2ZT0GH](https://www.reuters.com/article/russia-disinfo-doppelganger-idUSKBN2ZT0GH)
+
+* **Deutschlandfunk: „Schweizer Großspende an die AfD“ (08 Jul 2025)**
+  [https://www.deutschlandfunk.de/schweizer-grossspende-an-die-afd-100.html](https://www.deutschlandfunk.de/schweizer-grossspende-an-die-afd-100.html)
+
+* **Süddeutsche Zeitung: „Remigrationsbeschluss Essen“ (02 Dez 2023)**
+  [https://www.sueddeutsche.de/politik/remigrationsbeschluss-essen-1.5732220](https://www.sueddeutsche.de/politik/remigrationsbeschluss-essen-1.5732220)
+
+* **Tagesschau.de: „AfD attackiert ›Systemmedien‹“ (28 Feb 2023)**
+  [https://www.tagesschau.de/inland/afd-systemmedien-100.html](https://www.tagesschau.de/inland/afd-systemmedien-100.html)
+
+* **Belltower.News: „Die schlimmsten Zitate der AfD“ (2022)**
+  [https://www.belltower.news/die-schlimmsten-zitate-der-afd-2022/](https://www.belltower.news/die-schlimmsten-zitate-der-afd-2022/)
+
+* **afd-verbot.de – Öffentliches Melde- und Beweissammelportal**
+  [https://afd-verbot.de/](https://afd-verbot.de/)
+
+* **EGMR-Urteil Refah Partisi v. Turkey (2003)**
+  [https://hudoc.echr.coe.int/eng?i=001-61020](https://hudoc.echr.coe.int/eng?i=001-61020)
+
+* **EGMR-Urteil Batasuna v. Spain (2009)**
+  [https://hudoc.echr.coe.int/eng?i=001-93205](https://hudoc.echr.coe.int/eng?i=001-93205)
+
+* **EGMR-Urteil Golden Dawn v. Greece (2020)**
+  [https://hudoc.echr.coe.int/eng?i=001-204470](https://hudoc.echr.coe.int/eng?i=001-204470)
+
+---
+Deutschlandfunk – „AfD vs. Verfassungsschutz: Streit um Rechtsextremismus-Einstufung“
+https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html 
+Deutschlandfunk
+
+ZDFheute – „AfD-Gutachten des Verfassungsschutzes: Was in dem Dokument steht“
+https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html 
+ZDFheute
+
+Deutsche Welle – „Verfassungsschutz setzt neue AfD-Einstufung aus“ (Stillhaltezusage)
+https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906 
+Deutsche Welle
+
+WELT – „Medien veröffentlichen das geheime AfD-Gutachten“
+https://www.welt.de/256111766 
+DIE WELT
+
+Verfassungsblog – „Zwischen Bühne und Bann: AfD, OVG, BfV und das Parteienverbot“
+https://verfassungsblog.de/zwischen-buhne-und-bann-afd-orr/ 
+Verfassungsblog
+
+Wikipedia – „Alternative für Deutschland“ (Abschnitt Einstufung durch den Verfassungsschutz, Stand Mai 2025)
+https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland 
+Wikipedia
+
+---
+1. [https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html](https://www.deutschlandfunk.de/afd-einstufung-verfassungsschutz-rechtsextrem-100.html)
+2. [https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html](https://www.zdfheute.de/politik/deutschland/afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html)
+3. [https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906](https://www.dw.com/de/afd-einstufung-verfassungsschutz-rechtsextremismus-geheimdienst-verwaltungsgericht-k%C3%B6ln-nancy-faeser/a-72478906)
+4. [https://www.welt.de/256111766](https://www.welt.de/256111766)
+5. [https://verfassungsblog.de/zwischen-buhne-und-bann-afd-orr/](https://verfassungsblog.de/zwischen-buhne-und-bann-afd-orr/)
+6. [https://de.wikipedia.org/wiki/Alternative\_f%C3%BCr\_Deutschland](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland)
