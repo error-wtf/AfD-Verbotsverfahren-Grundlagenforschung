@@ -394,7 +394,6 @@ Wikipedia
 
 https://afd-verbot.de 
 
-Hier eine vertiefte Analyse des Portals **afd-verbot.de**, ergänzt durch weiterführende Recherche und Einordnung:
 
 ---
 
@@ -440,33 +439,10 @@ Hier eine vertiefte Analyse des Portals **afd-verbot.de**, ergänzt durch weiter
 * **Backend („E-Akte“)**
   Möglicherweise eine geschützte Datenbank; ohne Zugang bleibt unklar, wie Dokumente gespeichert und freigegeben werden.
 
----
-
-## 4. Ergänzende Rechercheschritte
-
-1. **Domain-Whois & Betreiberprüfung**
-
-   * Prüfen, wer hinter `afd-verbot.de` steht (Vereinsregister, Spendenkonten).
-
-2. **Akte-Backend validieren**
-
-   * Registrierungstest oder Einsatz von Testzugang, um zu sehen, ob und wie E-Akten heruntergeladen werden können.
-
-3. **Stichproben-Validierung**
-
-   * Zufällige Beweismeldungen (z. B. Zitat von Jens Maier) gegen offizielle Parlaments- oder Medienprotokolle abgleichen.
-
-4. **Rechtlicher Status**
-
-   * Klären, ob die eingereichten Belege juristisch aufbereitet und von einer neutralen Stelle beglaubigt werden.
-
-5. **Vergleich mit offiziellen Akten**
-
-   * Abgleich öffentlich verfügbarer Quellen (z. B. Bundesplenarprotokolle, VSB-Berichte) mit den dort gemeldeten Fakten.
 
 ---
 
-## 5. Fazit
+## 4. Fazit
 
 **afd-verbot.de** bietet ein innovatives, bürgerschaftliches Tool, Beweise gegen die AfD zu sammeln und zu strukturieren. Für eine **gerichtsfeste Verwendung** sind jedoch dringend notwendig:
 
