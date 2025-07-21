@@ -149,3 +149,60 @@ Hier eine ergänzte Liste der fehlenden, öffentlich verfügbaren Quellen mit di
 [5]: https://www.berlin.de/sen/inneres/verfassungsschutz/publikationen/verfassungsschutzberichte/verfassungsschutzbericht-2024-pressefassung.pdf?utm_source=chatgpt.com "[PDF] verfassungsschutzbericht-2024-pressefassung.pdf - Berlin.de"
 [6]: https://www.mi.niedersachsen.de/download/218679/Verfassungsschutzbericht_2024.pdf?utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht 2024"
 [7]: https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2025/06/vsb2024.html?utm_source=chatgpt.com "Presse - Verfassungsschutzbericht 2024 vorgestellt - BMI"
+
+---
+Konkrete Bezugswege für fehlende Beweismittel
+1. Whistleblower-/Zeugenaussagen
+Parlamentarische Sitzungsausschüsse (§ 44 GG)
+
+Recherche: Bundestagsarchiv, Bereich „Untersuchungsausschüsse“ → Protokolle der Innen- oder Geheimdienstausschüsse, in denen AfD-Insider vernommen wurden.
+
+Anfrage: Schriftliche Bitte an den Ausschussvorsitz (§ 44 Abs. 5 GO-BT), beglaubigte Abschriften der Zeugenaussagen herauszugeben.
+
+BMI-Referat Verfassungsschutz
+
+Methodik: Formeller Akteneinsichtsantrag nach § 43 BVerfGG („Akteneinsicht im Verfahren vor dem BVerfG“) zur Einsicht in unveröffentlichte Zeugenaussagen.
+
+2. Original-Audio/Video-Mitschnitte
+Bundestagsmedienzentrum
+
+Portal: https://www.bundestag.de/mediathek
+
+Suchbegriffe: „AfD Pruefverfahren“, „Geheimdienstanhörung“, Datum → Download von TV- und Audio-Clips der Plenar- und Ausschusssitzungen.
+
+BMI-Pressestelle
+
+Anforderung: Offizielle Anfrage zur Übersendung von Tonmitschnitten geheimer Anhörungen (geheimschutzvertraulich).
+
+3. Interne E-Mail- und Chat-Protokolle
+Parlamentarischer Untersuchungsausschuss
+
+Anlage: Gepoolte Protokolle und E-Mail-Auszüge im UA-Endbericht.
+
+Verfahren: Antrag gemäß UA-GeschO des Bundestags (durch Fraktionsauftrag) auf Herausgabe dieser Anlagen.
+
+Verfassungsschutzbehörden (BfV / LfV)
+
+Akteneinsicht: § 43 BVerfGG → Antrag auf Einsicht in den E-Mail-Verkehr zwischen Verfassungsschutz und BMI/AfD-Kontakten.
+
+4. Externe Sachverständigengutachten (Uni / Think-Tank)
+Universität Jena (Prof. Müller)
+
+Bezugsweg: Hochschulbibliothek Jena → Fernleihe oder Direktanforderung bei Institut für Demokratieforschung (E-Mail-Anfrage).
+
+Humboldt-Institut Berlin
+
+Bezugsweg: Publikationsverzeichnis auf www.humboldt-institut.de → Download kostenpflichtiger Gutachten oder schriftliche Direktanforderung.
+
+5. Social-Media-Rohdaten
+Twitter Developer API (Academic Access)
+
+Vorgehen: Export aller Tweets von und zu AfD-bezogenen Accounts (Hashtags #Familienwerte, #Systemmedien) für 2022–2025.
+
+Telegram-Archivierung
+
+Werkzeuge: Channelscraper oder Telethon-Library → Vollständiger Export von Kanal-Chats der AfD-nahen Gruppen.
+
+Chain-of-Custody
+
+Beweis­sicherung: Erzeugung und Dokumentation von SHA-256-Hashes für jede exportierte Datei unmittelbar nach Download.
