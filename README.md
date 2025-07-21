@@ -81,7 +81,7 @@ Dieses Repository ist bewusst so aufgebaut, dass es sowohl Jurist:innen als auch
 5. **Nahtlose Integration in ML-Workflows**  
    Standardisierte Dateinamen und Ordnerstrukturen machen es einfach, die Daten in Jupyter-Notebooks, Colab-Environments oder Produktionspipelines einzubinden. So lassen sich schnell Trainingsdatensätze für Legal-LMs erstellen, Feeds für Dokumenten-Updates konfigurieren und Automatisierungen implementieren.
 
-Dank dieser durchdachten Basis können sowohl rechtliche als auch technische Expert:innen ihre jeweiligen Teilaufgaben – von der juristischen Quellensuche bis zum maschinellen Text-Clustering – parallel und effizient abarbeiten.```
+Dank dieser durchdachten Basis können sowohl rechtliche als auch technische Expert:innen ihre jeweiligen Teilaufgaben – von der juristischen Quellensuche bis zum maschinellen Text-Clustering – parallel und effizient abarbeiten.
 
 ---
 ## 📚 Zugriff auf Dokumente und Ressourcen
