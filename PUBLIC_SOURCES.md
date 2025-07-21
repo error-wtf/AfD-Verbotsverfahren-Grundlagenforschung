@@ -90,20 +90,20 @@ Reuters: BfV stellt AfD als gesichert rechtsextremistische Bestrebung ein (02. M
 
 The Guardian: Germany labels AfD extremist (03. Mai 2025)https://www.theguardian.com/world/2025/may/03/germany-afd-security-service-extremist
 
-Spiegel: Andreas Rödder warnt vor Bürgerkriegsszenarien bei AfD-Verbothttps://www.spiegel.de/politik/deutschland/roedder-afd-verbot-buergerkrieg-a-1234567.html
+Spiegel: Andreas Rödder warnt vor Bürgerkriegsszenarien bei AfD-Verbot https://www.spiegel.de/politik/deutschland/roedder-afd-verbot-buergerkrieg-a-1234567.html
 
-FragDenStaat – Beweissammelportal für AfD-Verbotsverfahrenhttps://fragdenstaat.de/a/afd-verbotsverfahren/
+FragDenStaat – Beweissammelportal für AfD-Verbotsverfahren https://fragdenstaat.de/a/afd-verbotsverfahren/
 
 Verfassungsblog: Geltungsbereich von Art. 21 GG und Parteienverbotehttps://verfassungsblog.de/partGeltungsbereich-art21gg/
 
 CeMAS-Studie „Fraternity, Fitness and Fascism“https://www.cemas.io/studies/fraternity-fitness-and-fascism-active-clubs-in-germany.pdf
 
-Deutsches Institut für Menschenrechte – Analyse Verbot AfDhttps://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf
+Deutsches Institut für Menschenrechte – Analyse Verbot AfDh ttps://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf
 
-LTO-Artikel: Gutachterstreit um AfD-Verbotsverfahrenhttps://www.lto.de/recht/weitere-meldungen/m/gutachterstreit-afd-parteiverbotsverfahren/
+LTO-Artikel: Gutachterstreit um AfD-Verbotsverfahren https://www.lto.de/recht/weitere-meldungen/m/gutachterstreit-afd-parteiverbotsverfahren/
 
 LTO-Interview mit Felor Badenberg (Justizsenatorin)https://www.lto.de/recht/nachrichten/n/interview-felor-badenberg-afd-verbot/
 
-Cambridge Law Journal – Parties and the Constitution: Ein Vergleich europäischer Parteienverbotehttps://www.cambridge.org/core/journals/european-law-review/article/parties-and-the-constitution-a-comparative-study-of-bverfg-practice/
+Cambridge Law Journal – Parties and the Constitution: Ein Vergleich europäischer Parteienverbote https://www.cambridge.org/core/journals/european-law-review/article/parties-and-the-constitution-a-comparative-study-of-bverfg-practice/
 
 Ende der öffentlich zugänglichen Quellen.
