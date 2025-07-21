@@ -318,4 +318,32 @@ Wikipedia
 6. [https://de.wikipedia.org/wiki/Alternative\_f%C3%BCr\_Deutschland](https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland)
 
 ---
+
+1. **NPD-Verbotsurteil (BVerfG, 2 BvR 1077/15, 15. Februar 2017; BVerfGE 123, 267 ff.)**
+   [https://www.bverfg.de/e/rs20170215\_2bvr107715.html](https://www.bverfg.de/e/rs20170215_2bvr107715.html) ([Bundesverfassungsgericht][1])
+
+2. **Verfassungsschutzbericht 2023 (BfV, PDF)**
+   [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?\_\_blob=publicationFile\&v=10](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?__blob=publicationFile&v=10) ([Bundesamt für Verfassungsschutz][2])
+
+3. **Verfassungsschutzbericht 2024 (BfV, PDF)**
+   [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?\_\_blob=publicationFile\&v=4](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4) ([Bundesamt für Verfassungsschutz][3])
+
+4. **Bundesministerium des Innern – Verfassungsschutzbericht 2023 (PDF)**
+   [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?\_\_blob=publicationFile\&v=10](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10) ([BMI Bundesministerium für Gesundheit][4])
+
+5. **Bundesministerium des Innern – Verfassungsschutzbericht 2024 (PDF)**
+   [https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf?\_\_blob=publicationFile\&v=2](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf?__blob=publicationFile&v=2) ([BMI Bundesministerium für Gesundheit][5])
+
+6. **OAPEN Library – Externe Analyse zum NPD-Verbotsverfahren**
+   [https://library.oapen.org/bitstream/id/61342415-89e4-4d53-80f8-04f15a4306d8/external\_content.pdf](https://library.oapen.org/bitstream/id/61342415-89e4-4d53-80f8-04f15a4306d8/external_content.pdf) ([library.oapen.org][6])
+
+[1]: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2017/01/bs20170117_2bvb000113en.html?utm_source=chatgpt.com "Judgment of 17 January 2017 - Bundesverfassungsgericht"
+[2]: https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.html?utm_source=chatgpt.com "Verfassungsschutzbericht 2023 - Bundesamt für Verfassungsschutz"
+[3]: https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4&utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht 2024 - Bundesamt für Verfassungsschutz"
+[4]: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10&utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht 2023 - Bundesministerium des Innern"
+[5]: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf?__blob=publicationFile&v=2&utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht 2024 - Bundesministerium des Innern"
+[6]: https://library.oapen.org/bitstream/id/61342415-89e4-4d53-80f8-04f15a4306d8/external_content.pdf?utm_source=chatgpt.com "[PDF] Das NPD-Verbotsverfahren - OAPEN Library"
+
+---
+
 https://afd-verbot.de 
