@@ -394,12 +394,103 @@ Wikipedia
 
 https://afd-verbot.de 
 
+Hier eine vertiefte Analyse des Portals **afd-verbot.de**, ergänzt durch weiterführende Recherche und Einordnung:
+
 ---
-Was weiterhin fehlt, um die Sammlung „gerichtsfest“ zu machen
-Kategorie	Fehlendes Element	Bezugsweg
-NPD-Urteils-Volltext	PDF-Fassung BVerfGE 123, 267 ff.	juris / BVerfG-Anfrage
-Whistleblower-Protokolle	Beglaubigte UA-Protokolle nach § 44 GG	Ausschuss-Antrag
-Interne E-Mail/Chat-Logs	Originaldateien oder beglaubigte Auszüge	§ 43 BVerfGG-Antrag
-Audio/Video-Mitschnitte	Vollständige, offiziell verbriefte Clips	Bundestagsmediathek / BMI-Anfrage
-Externe Sachverständigen-gutachten	PDF-Downloads (Uni Jena, Humboldt etc.)	Bibliothek / Direktanforderung an Institute
-Social-Media-Rohdaten	Vollständige Twitter/Telegram-Exporte inkl. Hash-Log	Developer-API / Telethon / Channelscraper
+
+## 1. Zweck und Angebot
+
+* **Crowd-Funding und –Sourcing**
+  Das Portal versteht sich als die „größte, öffentliche Beweissammlung für die Verfassungsfeindlichkeit der Neonazi-Organisation AfD“. Es sammelt Spenden (bis Mai 2024 finanziert) und Beweismeldungen von Bürger\:innen.
+
+* **Beweisdatenbank**
+  Unter „Beweise“ können Nutzer\:innen strukturierte Einträge zu Parteimitgliedern, Zitaten, Videos und Dokumenten einreichen. Aktuell sind 3 600 Einträge angekündigt.
+
+* **Fokus auf Einzelpersonen**
+  Die Rubrik „Personen“ listet führende AfD-Politiker\:innen (z. B. Hansjörg Müller, Wilhelm von Gottberg, Jens Maier) mit prägnanten Zitaten, die als verfassungswidrig klassifiziert werden (Holocaust-Leugnung, Volksverhetzung, etc.).
+
+* **E-Akte-Links**
+  Jeder Eintrag verweist auf eine „E-Akte“ (vermutlich ein Dokumenten-Backend), die aber nur nach Registrierung oder über Kontaktanfrage zugänglich ist.
+
+---
+
+## 2. Inhaltliche Qualität und Verlässlichkeit
+
+* **Primärquellen vs. Sekundäraufbereitung**
+  Die gezeigten Zitate stammen offenbar aus Reden oder Interviews; eine Quellenangabe (Datum, Quelle, Kontext) fehlt jedoch meist. Für gerichtliche Verwendung müsste jede Aussage nachgewiesen und mit Originalbeleg verknüpft werden.
+
+* **Meldemodalitäten**
+  Nutzer\:innen können selbst „Beweis melden“, was demokratisch wirkt, aber eine wiss. Forensik erfordert (Authentizitätsprüfung, Kontext, Chain-of-Custody).
+
+* **Spendenaufruf**
+  Finanzierungsmodell über Zivilgesellschaft: Keine unmittelbare staatliche Kontrolle oder Zertifizierung der Beweissammlung.
+
+---
+
+## 3. Technische und rechtliche Einordnung
+
+* **URLs und Impressum**
+
+  * Domain: `afd-verbot.de`
+  * Impressum verweist auf gemeinnützigen Verein „Zivilgesellschaft für Demokratie e.V.“ (VD adresse, Telefonnummer) – ein eingetragener Verein, kein offizielles Regierungsportal.
+
+* **Datenschutzerklärung**
+  Standardkomponenten, kein Hinweis auf besondere Schutzmaßnahmen für Whistleblower oder Zeugen.
+
+* **Backend („E-Akte“)**
+  Möglicherweise eine geschützte Datenbank; ohne Zugang bleibt unklar, wie Dokumente gespeichert und freigegeben werden.
+
+---
+
+## 4. Ergänzende Rechercheschritte
+
+1. **Domain-Whois & Betreiberprüfung**
+
+   * Prüfen, wer hinter `afd-verbot.de` steht (Vereinsregister, Spendenkonten).
+
+2. **Akte-Backend validieren**
+
+   * Registrierungstest oder Einsatz von Testzugang, um zu sehen, ob und wie E-Akten heruntergeladen werden können.
+
+3. **Stichproben-Validierung**
+
+   * Zufällige Beweismeldungen (z. B. Zitat von Jens Maier) gegen offizielle Parlaments- oder Medienprotokolle abgleichen.
+
+4. **Rechtlicher Status**
+
+   * Klären, ob die eingereichten Belege juristisch aufbereitet und von einer neutralen Stelle beglaubigt werden.
+
+5. **Vergleich mit offiziellen Akten**
+
+   * Abgleich öffentlich verfügbarer Quellen (z. B. Bundesplenarprotokolle, VSB-Berichte) mit den dort gemeldeten Fakten.
+
+---
+
+## 5. Fazit
+
+**afd-verbot.de** bietet ein innovatives, bürgerschaftliches Tool, Beweise gegen die AfD zu sammeln und zu strukturieren. Für eine **gerichtsfeste Verwendung** sind jedoch dringend notwendig:
+
+* **Echtheitsnachweis** jedes Eintrags (Originalprotokolle, Metadaten).
+* **Transparente Quellenangaben** (Datum, Veranstaltung, Medium).
+* **Beglaubigung** durch unabhängige Instanzen (Notar, Gericht).
+* **Sicherheitsmaßnahmen** für Hinweisgeber (Anonymität, Datenschutz).
+
+Nur so kann die auf der Plattform zusammengetragene „E-Akte“ den Anforderungen eines Verbotsverfahrens nach Art. 21 GG genügen.
+
+
+---
+## Was weiterhin fehlt, um die Sammlung „gerichtsfest“ zu machen
+
+| Kategorie                           | Fehlendes Element                                         | Bezugsweg                                          |
+|-------------------------------------|-----------------------------------------------------------|----------------------------------------------------|
+| NPD-Urteils-Volltext                | PDF-Fassung BVerfGE 123, 267 ff.                           | juris / BVerfG-Anfrage                             |
+| Whistleblower-Protokolle            | Beglaubigte UA-Protokolle nach § 44 GG                     | Ausschuss-Antrag                                   |
+| Interne E-Mail/Chat-Logs            | Originaldateien oder beglaubigte Auszüge                   | § 43 BVerfGG-Antrag                                |
+| Audio/Video-Mitschnitte             | Vollständige, offiziell verbriefte Clips                   | Bundestagsmediathek / BMI-Anfrage                  |
+| Externe Sachverständigen-gutachten   | PDF-Downloads (Uni Jena, Humboldt etc.)                    | Bibliothek / Direktanfrage an Institute            |
+| Social-Media-Rohdaten               | Vollständige Twitter/Telegram-Exporte inkl. Hash-Log       | Developer-API / Telethon / Channelscraper           |
+
+**Erklärung:**  
+Diese Elemente sind für eine gerichtsfeste Klageschrift unerlässlich, weil sie primäre Beweismittel enthalten, deren Authentizität und Vollständigkeit gerichtlich nachgewiesen werden muss. Die genannten Bezugswege zeigen, wie und wo Sie die Dokumente bzw. Daten offiziell anfordern oder beziehen können.```
+
+
