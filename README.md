@@ -62,6 +62,28 @@ Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen,
 - Du Vorschläge zur Struktur oder zum Aufbau der Klageschrift hast.
 
 ---
+## KI-gestützte Analyse und Automatisierung
+
+Dieses Repository ist bewusst so aufgebaut, dass es sowohl Jurist:innen als auch Data-Science-Teams effizient unterstützt. Die wichtigsten KI-relevanten Features auf einen Blick:
+
+1. **Durchsuchbare Rohtexte**  
+   Die VS-Geheimgutachten liegen als plain-text-Fragmente (*.txt*) vor. Dadurch entfällt aufwändiges OCR- und PDF-Parsing, und KI-Modelle können direkt Named-Entity-Recognition, semantische Suche oder Topic-Modeling auf den Dokumenten ausführen.
+
+2. **Template-basierte Entwurfs-PDFs**  
+   Die Klageschrift-Entwürfe (*.pdf*) sind in klar strukturierten Abschnitten (A–D) gegliedert und enthalten Platzhalter für Fußnoten und Seitennachweise. Mit gezielten Prompts lassen sich mit Legal-LMs automatisch alle Quellenangaben vervollständigen und Prüffragen validieren.
+
+3. **Maschinenlesbare Linklisten**  
+   Dateien wie `PUBLIC_SOURCES.md` und `leicht zugängliche Quellen.txt` liefern strukturierte Metadaten und URLs. Sie können direkt in Crawler-Skripte oder ETL-Pipelines eingespeist werden, um neue Verfassungsschutzberichte, Bundestagsdokumente oder Gerichtsurteile fortlaufend zu überwachen und zu archivieren.
+
+4. **Graph- und Relationsextraktion**  
+   Die Zuordnung von juristischen Argumenten zu Quellen im `quellen.pdf` ermöglicht es, automatisch einen Fakten-Graphen zu generieren (z. B. mit Neo4j), in dem Knoten (Argumente) und Kanten (Belege) visualisiert und Lücken identifiziert werden können.
+
+5. **Nahtlose Integration in ML-Workflows**  
+   Standardisierte Dateinamen und Ordnerstrukturen machen es einfach, die Daten in Jupyter-Notebooks, Colab-Environments oder Produktionspipelines einzubinden. So lassen sich schnell Trainingsdatensätze für Legal-LMs erstellen, Feeds für Dokumenten-Updates konfigurieren und Automatisierungen implementieren.
+
+Dank dieser durchdachten Basis können sowohl rechtliche als auch technische Expert:innen ihre jeweiligen Teilaufgaben – von der juristischen Quellensuche bis zum maschinellen Text-Clustering – parallel und effizient abarbeiten.```
+
+---
 ## 📚 Zugriff auf Dokumente und Ressourcen
 
 Dieses Repository enthält eine umfassende Sammlung an Quellen und Vorarbeiten zum Verbotsverfahren gegen die AfD. Um alle Materialien zu nutzen, gehen Sie bitte wie folgt vor:
