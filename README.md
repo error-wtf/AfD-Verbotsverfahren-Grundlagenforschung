@@ -12,26 +12,29 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 ## Repository-Struktur
 
 ```
-├── ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN .pdf
-├── ENTWURF KLAGESCHRIFT .pdf
+├── PUBLIC_SOURCES.md
+├── leicht zugängliche Quellen.txt
+├── afd-verbot-deepresearch-ausgangspunkt.txt
+├── quellen.pdf
+├── ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN.pdf
+├── ENTWURF KLAGESCHRIFT.pdf
 ├── WISSENSTAND MAI 2025 AfD.pdf
 ├── "Im Folgenden werden die zuvor genannten 15 Gründe…".pdf
 ├── Gründe für ein Afd-Verbots-Verfahren - KI generiert - PDF.pdf
 ├── schlimmsten zitate der afd.pdf
 ├── warum die afd verboten gehört.pdf
 ├── Warum die Alternative für Deutschland verboten gehört.pdf
-├── quellen.pdf
-├── afd-verbot-deepresearch-ausgangspunkt.txt
 ├── gruende für ein afd verbotsverfahren.pdf
 ├── gruende_fuer_afd_verbot.txt
 ├── zusammenfassung_vfs_gutachten_afd.txt
 ├── Geheimgutachten_Teil A_pages_1_to_100.txt
 ├── Geheimgutachten_Teil A_pages_101_to_200.txt
-├── … (Teil A bis Seite 508)
+├── … (Teil A bis Seite 508)
 ├── Geheimgutachten_Teil B_pages_1_to_100.txt
 ├── Geheimgutachten_Teil B_pages_101_to_200.txt
-├── … (reparierte Fragmente bis Seite 609)
+├── … (reparierte Fragmente bis Seite 609)
 └── README.md (diese Datei)
+
 ```
 
 ## Nutzung
