@@ -14,3 +14,35 @@ Wikipedia
 8. BfV-Themenseite „Verfassungsschutzbericht“	Pressemitteilung zum Bericht 2023: https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html 
 BMI Bundesministerium für Gesundheit
 9. Juris-Datenbank (BVerfGE 123, 267 ff.)	Volltext BVerfGE 123, 267 ff. (gegen Gebühr/für Gerichte frei): https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+123%2C267
+
+## Öffentlich zugängliche Referenzen
+
+1. **Verfassungsschutzbericht 2023 (BfV)**  
+   PDF-Download:  
+   https://www.verfassungsschutz.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/vsb2023-BMI24018.pdf?__blob=publicationFile&v=10
+
+2. **Parlamentarische Protokolle – Sicherheitspaket-Anhörung**  
+   Drucksache 20/1019032 (23. Sept. 2024):  
+   https://dserver.bundestag.de/btd/20/010/2001020.pdf
+
+3. **NPD-Verbotsurteil (BVerfG 2017)**  
+   Mitteilung und Kurztext:  
+   https://www.bverfg.de/e/rs20170215_2bvr107715.html
+
+4. **Plenarprotokoll 86. Sitzung (Hetze-Debatte)**  
+   https://dserver.bundestag.de/btd/20/133/2013317.pdf
+
+5. **Plenarprotokoll 203. Sitzung (VfS-Anhörung)**  
+   https://dserver.bundestag.de/btd/20/126/2012662.pdf
+
+6. **Archiv Verfassungsschutzberichte**  
+   https://verfassungsschutzberichte.de/
+
+7. **Bundestagsdrucksachen-Suche**  
+   https://dserver.bundestag.de/btd/search/
+
+8. **BMI-Pressemitteilung zum VSB 2023**  
+   https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/06/vsb2023.html
+
+9. **juris-Datenbank (BVerfGE 123, 267 ff.)**  
+   https://www.juris.de/jportal/?quelle=jlink&query=BVerfGE+123%2C267
