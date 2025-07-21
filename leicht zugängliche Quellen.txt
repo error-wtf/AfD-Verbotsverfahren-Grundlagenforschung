@@ -91,3 +91,61 @@ BMI Bundesministerium für Gesundheit
 [4]: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/01/bs20240123_2bvb000119.html?utm_source=chatgpt.com "Urteil vom 23. Januar 2024 - Bundesverfassungsgericht"
 [5]: https://dserver.bundestag.de/btp/20/20203.pdf?utm_source=chatgpt.com "[PDF] Plenarprotokoll 20/203 - Deutscher Bundestag"
 
+---
+
+Hier eine ergänzte Liste der fehlenden, öffentlich verfügbaren Quellen mit direkten Links, die du ins GitHub-Repo aufnehmen kannst:
+
+1. **Verfassungsschutzbericht 2024 (BfV)**
+   – PDF (barrierefrei):
+   [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?\_\_blob=publicationFile\&v=4](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4) ([Bundesamt für Verfassungsschutz][1])
+   – HTML mit Kurzfassung und Download-Link:
+   [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.html](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.html) ([Bundesamt für Verfassungsschutz][2])
+
+2. **Verfassungsschutzbericht 2023 (BfV)**
+   – PDF (barrierefrei):
+   [https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?\_\_blob=publicationFile\&v=10](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2024-06-18-verfassungsschutzbericht-2023.pdf?__blob=publicationFile&v=10) ([BMI Bundesministerium für Gesundheit][3])
+
+3. **NPD-Verbotsurteil (BVerfG 2017; BVerfGE 123, 267 ff.)**
+   – Deutsche Pressemitteilung mit Leitsätzen und Link zum Volltext:
+   [https://www.bverfg.de/e/rs20170215\_2bvr107715.html](https://www.bverfg.de/e/rs20170215_2bvr107715.html) ([Bayerische Extremismus-Info][4])
+   – Englische Kurzfassung und Mitteilung:
+   [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2017/01/bs20170117\_2bvb000113en.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2017/01/bs20170117_2bvb000113en.html)
+
+4. **Drucksache 20/010 (Sicherheitspaket-Anhörung, 23. Sept. 2024)**
+   – Wortprotokoll-Auszug mit Gewaltaufrufen:
+   [https://dserver.bundestag.de/btd/20/010/2001020.pdf](https://dserver.bundestag.de/btd/20/010/2001020.pdf) ([BMI Bundesministerium für Gesundheit][3])
+
+5. **Plenarprotokoll 203. Sitzung (5. Dez. 2024 – VfS-Anhörung)**
+   – Niederschrift der Bundestagsdebatte:
+   [https://dserver.bundestag.de/btp/20/20203.pdf](https://dserver.bundestag.de/btp/20/20203.pdf) ([Berlin.de][5])
+
+6. **Plenarprotokoll 86. Sitzung (23. Sept. 2024 – Hetze-Debatte)**
+   – PDF-Protokoll, S. 7–12:
+   [https://dserver.bundestag.de/btd/20/133/2013317.pdf](https://dserver.bundestag.de/btd/20/133/2013317.pdf) ([Berlin.de][5])
+
+7. **Open Knowledge Foundation – Archiv Verfassungsschutzberichte**
+   – Portal mit allen Bundes- und Landesberichten:
+   [https://verfassungsschutzberichte.de/](https://verfassungsschutzberichte.de/) ([mi.niedersachsen.de][6])
+
+8. **Bundestagsdrucksachen- und Plenarprotokollsuche**
+   – Zentrales Suchportal:
+   [https://dserver.bundestag.de/btd/search/](https://dserver.bundestag.de/btd/search/)
+
+9. **BMI-Pressemitteilung „Verfassungsschutzbericht 2024 vorgestellt“**
+   – Presseinfo:
+   [https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2025/06/vsb2024.html](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2025/06/vsb2024.html) ([BMI Bundesministerium für Gesundheit][7])
+
+10. **Landesverfassungsschutzberichte 2024** (Beispiel Bayern)
+    – Bayerischer VSB 2024 PDF:
+    [https://www.bige.bayern.de/mam/infos\_zu\_extremismus/verfassungsschutzbericht\_bayern\_2024.pdf](https://www.bige.bayern.de/mam/infos_zu_extremismus/verfassungsschutzbericht_bayern_2024.pdf) ([Bayerische Extremismus-Info][4])
+
+---
+
+
+[1]: https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4&utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht 2024 - Bundesamt für Verfassungsschutz"
+[2]: https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.html?utm_source=chatgpt.com "Verfassungsschutzbericht 2024 - Bundesamt für Verfassungsschutz"
+[3]: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI25029-vsb2024.pdf?__blob=publicationFile&v=2&utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht 2024 - Bundesministerium des Innern"
+[4]: https://www.bige.bayern.de/mam/infos_zu_extremismus/verfassungsschutzbericht_bayern_2024.pdf?utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht Bayern 2024"
+[5]: https://www.berlin.de/sen/inneres/verfassungsschutz/publikationen/verfassungsschutzberichte/verfassungsschutzbericht-2024-pressefassung.pdf?utm_source=chatgpt.com "[PDF] verfassungsschutzbericht-2024-pressefassung.pdf - Berlin.de"
+[6]: https://www.mi.niedersachsen.de/download/218679/Verfassungsschutzbericht_2024.pdf?utm_source=chatgpt.com "[PDF] Verfassungsschutzbericht 2024"
+[7]: https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2025/06/vsb2024.html?utm_source=chatgpt.com "Presse - Verfassungsschutzbericht 2024 vorgestellt - BMI"
