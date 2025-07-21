@@ -98,7 +98,7 @@ Verfassungsblog: Geltungsbereich von Art. 21 GG und Parteienverbotehttps://verfa
 
 CeMAS-Studie „Fraternity, Fitness and Fascism“https://www.cemas.io/studies/fraternity-fitness-and-fascism-active-clubs-in-germany.pdf
 
-Deutsches Institut für Menschenrechte – Analyse Verbot AfDh ttps://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf
+Deutsches Institut für Menschenrechte – Analyse Verbot AfD https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Analyse_AfD_Verbotsverfahren.pdf
 
 LTO-Artikel: Gutachterstreit um AfD-Verbotsverfahren https://www.lto.de/recht/weitere-meldungen/m/gutachterstreit-afd-parteiverbotsverfahren/
 
