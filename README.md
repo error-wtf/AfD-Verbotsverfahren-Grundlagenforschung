@@ -187,14 +187,14 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
    sudo apt update
    sudo apt install -y python3-venv python3-pip chromium chromium-driver
 ````
-
+---
 2. **Virtuelle Umgebung & Python‑Pakete**:
 
    ```bash
    chmod +x afd-verbot.de-scrape-dependencies.sh
    ./afd-verbot.de-scrape-dependencies.sh
    source venv/bin/activate
-   ```
+   ````
 
    Damit wird ein `venv` angelegt, aktiviert und alle benötigten Python‑Module (`selenium`, `fpdf`, `requests`, `beautifulsoup4`) installiert.
 
@@ -207,12 +207,12 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
    ```bash
    source venv/bin/activate
    python3 afd-verbot.de-scrape-beweise-zitate.py
-   ```
+   ````
 
    * Das Script scrollt extrem langsam (100 px / 0,5 s) über alle **367** Scroll‑Seiten,
    * sammelt jede neue `Zum Beweis`‑URL direkt in `afd-verbot.de-scrape-link-liste.txt`,
    * und druckt jede Detail‑Seite als PDF (`afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.pdf`) in `./mnt/d/afd_proofs/`.
-
+---
 2. **Ergebnis prüfen**
 
    * **Linkliste**: `afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 663 URLs.
