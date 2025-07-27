@@ -106,4 +106,6 @@ LTO-Interview mit Felor Badenberg (Justizsenatorin)https://www.lto.de/recht/nach
 
 Cambridge Law Journal – Parties and the Constitution: Ein Vergleich europäischer Parteienverbote https://www.cambridge.org/core/journals/european-law-review/article/parties-and-the-constitution-a-comparative-study-of-bverfg-practice/
 
+https://afd-verbot.de/beweise <- Zitatesammlung der Afd durch "Zentrum für politische Schönheit"
+
 Ende der öffentlich zugänglichen Quellen.
