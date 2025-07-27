@@ -100,7 +100,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 | `lto.de/…gutachterstreit-afd-parteiverbotsverfahren/`                                                            | Legal Tribune Online: Gutachterstreit um AfD‑Verbotsverfahren                                                                        |
 | `lto.de/…interview-felor-badenberg-afd-verbot/`                                                                  | LTO‑Interview mit Felor Badenberg zur AfD‑Verbotsdebatte                                                                             |
 | `cambridge.org/core/journals/european-law-review/…bverfg-practice/`                                              | Cambridge Law Journal: Vergleich europäischer Parteienverbote (BVerfG‑Praxis)                                                        |
-
+| `afd-verbot.de/beweise`                                                                                          | Zitate Sammlung der Afd durch afd-verbot.de  - Zentrum für politische Schönheit                                                      |
 ## Nutzung
 
 1. **Repository klonen**
