@@ -159,6 +159,82 @@ Dieses Repository ist bewusst so aufgebaut, dass es sowohl Jurist:innen als auch
 Dank dieser durchdachten Basis können sowohl rechtliche als auch technische Expert:innen ihre jeweiligen Teilaufgaben – von der juristischen Quellensuche bis zum maschinellen Text-Clustering – parallel und effizient abarbeiten.
 
 ---
+```markdown
+# AfD-Verbot.de Beweise Scraper
+
+Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [afd‑verbot.de/beweise](https://afd-verbot.de/beweise) zu laden, alle Detail‑Links zu extrahieren und jeden einzelnen Beweis als datierte PDF zu speichern.
+
+---
+
+## 📁 Projektstruktur
+
+```
+
+├── afd-verbot.de-scrape-dependencies.sh   # Installations‑ und Setup‑Script
+├── afd-verbot.de-scrape-beweise-zitate.py # Haupt‑Script: langsames Scrollen + Link‑Export + PDF‑Erzeugung
+├── afd-verbot.de-scrape-link-liste.txt    # Automatisch generierte Liste aller Beweis‑URLs
+├── afd-verbot.de-<DATUM>-proof-00001.pdf  # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03663.pdf
+└── README.md                              # Diese Anleitung
+
+````
+
+---
+
+## 🚀 Anforderungen & Installation
+
+1. **System‑Abhängigkeiten** (unter Debian/Kali/Ubuntu):
+   ```bash
+   sudo apt update
+   sudo apt install -y python3-venv python3-pip chromium chromium-driver
+````
+
+2. **Virtuelle Umgebung & Python‑Pakete**:
+
+   ```bash
+   chmod +x afd-verbot.de-scrape-dependencies.sh
+   ./afd-verbot.de-scrape-dependencies.sh
+   source venv/bin/activate
+   ```
+
+   Damit wird ein `venv` angelegt, aktiviert und alle benötigten Python‑Module (`selenium`, `fpdf`, `requests`, `beautifulsoup4`) installiert.
+
+---
+
+## ⚙️ Nutzung
+
+1. **Linkliste und PDFs erzeugen**
+
+   ```bash
+   source venv/bin/activate
+   python3 afd-verbot.de-scrape-beweise-zitate.py
+   ```
+
+   * Das Script scrollt extrem langsam (100 px / 0,5 s) über alle **367** Scroll‑Seiten,
+   * sammelt jede neue `Zum Beweis`‑URL direkt in `afd-verbot.de-scrape-link-liste.txt`,
+   * und druckt jede Detail‑Seite als PDF (`afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.pdf`) in `./mnt/d/afd_proofs/`.
+
+2. **Ergebnis prüfen**
+
+   * **Linkliste**: `afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 663 URLs.
+   * **PDF‑Ordner**: Enthält 3 663 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03663.pdf`.
+
+---
+
+## 🤔 Warum so langsam?
+
+* **Infinite Scroll‑Mechanik** auf der Seite erfordert ganz kleine Schritte, damit das JavaScript nachladen kann.
+* Zu schnelles Scrollen würde die letzten Seiten gar nicht erst nachladen – wir brauchen solide 0,5 s Pause pro 100 px.
+
+> „Geduld ist eine Tugend – und hier unverzichtbar, um nichts zu verpassen.“ 😄
+
+---
+
+## 💡 Weiterentwicklung
+
+* **Parallelisierung** mit mehreren Browsersessions, um PDF‑Erstellung zu beschleunigen.
+* **WeasyPrint‑Alternative**, um auf `requests`‑Basis direkt HTML→PDF zu konvertieren.
+* **Fehler‑Handling** optimieren (Timeouts, Wiederholungen bei Fehlabruf).
+---
 ## 📚 Zugriff auf Dokumente und Ressourcen
 
 Dieses Repository enthält eine umfassende Sammlung an Quellen und Vorarbeiten zum Verbotsverfahren gegen die AfD. Um alle Materialien zu nutzen, gehen Sie bitte wie folgt vor:
