@@ -225,15 +225,8 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 * **Infinite Scroll‑Mechanik** auf der Seite erfordert ganz kleine Schritte, damit das JavaScript nachladen kann.
 * Zu schnelles Scrollen würde die letzten Seiten gar nicht erst nachladen – wir brauchen solide 0,5 s Pause pro 100 px.
 
-> „Geduld ist eine Tugend – und hier unverzichtbar.“ 
+> „Geduld ist eine Tugend – und hier ausnahmsweise unverzichtbar.“ 
 
----
-
-## 💡 Weiterentwicklung
-
-* **Parallelisierung** mit mehreren Browsersessions, um PDF‑Erstellung zu beschleunigen.
-* **WeasyPrint‑Alternative**, um auf `requests`‑Basis direkt HTML→PDF zu konvertieren.
-* **Fehler‑Handling** optimieren (Timeouts, Wiederholungen bei Fehlabruf).
 ---
 ## 📚 Zugriff auf Dokumente und Ressourcen
 
