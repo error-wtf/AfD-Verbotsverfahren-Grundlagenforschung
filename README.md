@@ -36,7 +36,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 ├── afd-verbot.de-scrape-dependencies.sh
 ├── afd-verbot.de-scrape-beweise-zitate.py
 ├── afd-verbot.de-scrape-link-liste.txt
-├── afd-verbot.de-27.07.2025-proof-0000.pdf ... ...-proof-3663.pdf
+├── afd-verbot.de-27.07.2025-proof-00000.pdf ... ...-proof-03663.pdf
 └── README.md (diese Datei)
 
 ```
