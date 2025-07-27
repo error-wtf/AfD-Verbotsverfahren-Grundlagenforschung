@@ -33,6 +33,9 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 ├── Geheimgutachten_Teil B_pages_1_to_100.txt
 ├── Geheimgutachten_Teil B_pages_101_to_200.txt
 ├── … (reparierte Fragmente bis Seite 609)
+├── afd-verbot.de-scrape-dependencies.sh
+├── afd-verbot.de-scrape-beweise-zitate.py
+├── afd-verbot.de-scrape-link-liste.txt
 └── README.md (diese Datei)
 
 ```
