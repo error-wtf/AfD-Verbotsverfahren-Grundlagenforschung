@@ -159,7 +159,7 @@ Dieses Repository ist bewusst so aufgebaut, dass es sowohl Jurist:innen als auch
 Dank dieser durchdachten Basis können sowohl rechtliche als auch technische Expert:innen ihre jeweiligen Teilaufgaben – von der juristischen Quellensuche bis zum maschinellen Text-Clustering – parallel und effizient abarbeiten.
 
 ---
-```markdown
+
 # AfD-Verbot.de Beweise Scraper
 
 Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [afd‑verbot.de/beweise](https://afd-verbot.de/beweise) zu laden, alle Detail‑Links zu extrahieren und jeden einzelnen Beweis als datierte PDF zu speichern.
