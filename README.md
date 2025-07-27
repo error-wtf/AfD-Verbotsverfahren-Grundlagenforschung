@@ -225,7 +225,7 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 * **Infinite Scroll‑Mechanik** auf der Seite erfordert ganz kleine Schritte, damit das JavaScript nachladen kann.
 * Zu schnelles Scrollen würde die letzten Seiten gar nicht erst nachladen – wir brauchen solide 0,5 s Pause pro 100 px.
 
-> „Geduld ist eine Tugend – und hier unverzichtbar, um nichts zu verpassen.“ 😄
+> „Geduld ist eine Tugend – und hier unverzichtbar.“ 
 
 ---
 
