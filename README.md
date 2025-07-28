@@ -228,6 +228,21 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 > „Geduld ist eine Tugend – und hier ausnahmsweise unverzichtbar.“ 
 
 ---
+## PDF zu MD Dateien
+---
+KI kann besser MD Dateien verarbeiten da nur reiner Text.
+---
+´´´
+sudo apt install poppler-utils
+´´´´
+und dann
+´´´
+chmod +x pdf-to-md.sh
+./pdf-to-md.sh
+´´´´
+---
+In allen ausführbaren Dateien - Input-Ordner und Output-Ordner/Zieldatei-Namen - gegenfalls editieren
+---
 ## 📚 Zugriff auf Dokumente und Ressourcen
 
 Dieses Repository enthält eine umfassende Sammlung an Quellen und Vorarbeiten zum Verbotsverfahren gegen die AfD. Um alle Materialien zu nutzen, gehen Sie bitte wie folgt vor:
