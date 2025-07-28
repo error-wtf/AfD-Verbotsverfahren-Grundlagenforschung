@@ -1,0 +1,150 @@
+Handakte 91498
+
+In der Sache gegen Gunnar Lindemann wird in diesem Zusammenhang der
+Verdacht erhoben, am/im 26.09.2024 folgender verfassungsfeindlichen
+Bestrebung/en nachgegangen zu sein: Abwertung, Diffamierung, Verleumdung
+von Menschen, Kriminalisierung und Herabwürdigung von
+Bevölkerungsgruppen, Versuch der Ausbürgerung von Menschen.
+
+
+
+
+      Beweisstück
+
+             „Seit Jahren geht die EU massiv gegen die Ausbreitung von Waschbären
+             vor, da sie diese als 'invasive Art' identifiziert hat. Das bedeutet, dass die
+             Ausbereitung der Waschbären eine Bedrohung für das heimische
+             Ökosystem dastellen soll. Wenn wird diese Erkenntnis auf die
+             europäischen Gesllschaften übertragen, müssen wir leider feststellen,
+             dass die EU hier weitaus weniger Sorgfalt walten lässt. Ob das nun
+             Absicht oder einfach nur Dummheit ist, überlassen wir Ihrer Phantasie.
+             Es bleibt jedoch die Erkenntnis, dass die unkontrollierbare Ausbreitung
+             kulturfremder Spezies immer eine Gefahr für die jeweils heimischen
+             Ökosysteme darstellt. Und das gilt eben nicht nur im Tier- und
+             Pflanzenreich.“
+
+
+
+Quelle:
+Verfassungsschutz-Gutachten April 2025, S. 153
+                       Jetzt als Wahlkampf-
+                       motiv herunterladen
+
+
+                                           Motiv ohne Autorenportrait              Download
+
+
+
+
+Für die Zukunft der Demokratie und zur Abwendung einer schweren
+Staatsgefährdung im Bereich Rechtsextremismus müssen Bundesregierung,
+Bundesrat oder Bundestag vor dem Verfassungsgericht folgende Anträge stellen:
+
+
+   1. Die Alternative für Deutschland einschließlich ihrer Jugendorganisation
+      Junge Alternative, ihrer innerparteilichen Organisationen und der
+      kommunalpolitischen Vereinigungen ihrer Landesverbände ist
+      verfassungswidrig.
+   2. Die Alternative für Deutschland einschließlich ihrer Jugendorganisation
+      Junge Alternative, ihrer innerparteilichen Organisationen und der
+      kommunalpolitischen Vereinigungen ihrer Landesverbände wird aufgelöst.
+   3. Es ist verboten, Ersatzorganisationen für die Alternative für Deutschland
+      einschließlich ihrer Jugendorganisation Junge Alternative, ihrer
+      innerparteilichen Organisationen und der kommunalpolitischen
+      Vereinigungen ihrer Landesverbände zu schaffen oder bestehende
+      Organisationen als Ersatzorganisationen fortzusetzen.
+   4. Das Vermögen der Alternative für Deutschland einschließlich ihrer
+      Jugendorganisation Junge Alternative, ihrer innerparteilichen Organisationen
+      und der kommunalpolitischen Vereinigungen ihrer Landesverbände wird
+      zugunsten der Bundesrepublik Deutschland für gemeinnützige Zwecke
+      eingezogen.
+
+
+
+Bitte beachten Sie: Die „Alternative für Deutschland“ ist der politische Arm des Rechtsterrorismus in
+Deutschland – eine Heimat für Extremisten, deren verfassungsfeindlichen Bestrebungen beendet
+werden müssen. Mit dem Verbot der Partei geht auch das Verbot von Ersatzorganisationen einher. Das
+Bundesverfassungsgericht entscheidet über die Auflösung der Partei. Die Angriffe, Missachtungen,
+Beschimpfungen und Verleumdungen gegen Regierung, Gerichte und Institutionen sind nicht von der
+Meinungsfreiheit gedeckt, sondern offenbaren die Tendenz der Partei, das Vertrauen der Bevölkerung
+in die Repräsentanten der Bundesrepublik zu erschüttern, um die freiheitliche demokratische
+Grundordnung fragwürdig zu machen. Das Verbot der „Alternative für Deutschland“ bedeutet, alle
+Strukturen aufzulösen, Abgeordnete und Mitarbeitende zu entlassen und die Kreisverbände und
+Jugendorganisationen zu liquidieren. Richterinnen, Lehrer und sonstige Personen im
+Beamtenverhältnis haben sich wissentlich an einem Angriff gegen den Staat beteiligt und müssen mit
+disziplinarischen Konsequenzen rechnen.
+Die Partei „Alternative für Deutschland“ hat zum oben genannten Tatbestand wie folgt Stellung
+bezogen: „Immer wieder wird seitens der Medien, des politischen Gegners und der von ihm
+instrumentalisierten Ämter für Verfassungsschutz unterstellt, die AfD vertrete verfassungswidrige[r]
+Bestrebungen […] und ihr [wird] das Prädikat „demokratisch“ abgesprochen. Durch unser
+Grundsatzprogramm und unsere Wahlprogramme auf Bundes- und Landesebene sowie durch zahllose
+Reden und Verlautbarungen der maßgeblichen Exponenten unserer Partei sind diese vollkommen
+haltlosen Diffamierungen implizit und explizit hundertfach Lügen gestraft.“
+
+
+
+
+           Abwertung, Diffamierung, Verleumdung von Menschen, Kriminalisierung und
+           Herabwürdigung von Bevölkerungsgruppen, Versuch der Ausbürgerung von Menschen
+
+
+
+
+   Zur Person
+
+
+   Gunnar Lindemann
+
+      Zur E-Akte
+                        Gunnar L.
+
+Diese Handakte teilen
+
+
+     Instagram
+         Facebook
+
+         Whatsapp
+
+         Telegram
+
+         Link kopieren
+
+
+
+
+                                     Ein Einzelfall?
+                                   Klicken Sie hier für
+                                   weitere Informationen
+
+
+
+
+            Beweisdatenbank durchsuchen
+
+  Suchbegriff eingeben
+
+  Das erste von der Zivilgesellschaft finanzierte
+   Beweissammlungsverfahren für ein Verbot
+                     der AfD
+
+                  Jetzt spenden!
+
+
+
+
+Ermittlungen finanzieren
+Neu: Der Adenauer SRP+
+
+Impressum
+
+Datenschutz
+
+
+
+
+Melden Sie uns Ihre Hinweise zu verfassungsfeindlichen Bestrebungen der AfD
+jetzt!
+
+    030 - 75 43 74 82
+

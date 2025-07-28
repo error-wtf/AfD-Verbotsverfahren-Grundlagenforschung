@@ -1,0 +1,155 @@
+Handakte 11394
+
+In der Sache gegen Björn Höcke wird in diesem Zusammenhang der Verdacht
+erhoben, am/im 12/21/25 folgender verfassungsfeindlichen Bestrebung/en
+nachgegangen zu sein: Rechtsextremismus, Kriminalisierung und
+Herabwürdigung von Bevölkerungsgruppen.
+
+
+
+
+    Beweisstück
+          „Wer noch in der alten BRD aufgewachsen ist oder in der DDR, der wird
+          sich eingestehen müssen, daß er sein Heimatland nicht wiedererkennen
+          kann. Alle Gewißheiten sind in Frage gestellt, alles ist ins Rutschen
+          geraten: Wo sind unsere Werte, wo unsere Vertrauensgemeinschaft, wo
+          ist das Deutschland, auf das die Welt bewundernd schaute? Wir müssen
+          eingestehen: von ihm, von uns ist kaum noch etwas da. Reicht die
+          Restsubstanz noch, um neu zu beginnen? Obwohl ich ein Kämpferherz
+          habe, kann ich diese Frage gerade nicht zustimmend beantworten. Heute
+          spüre ich nur tiefe Traurigkeit. Während ich meine Enkelin im Arm wiege,
+          denke ich an das Kleinkind, das voller Vorfreude auf das Fest den
+          Weihnachtsmarkt besuchte und jetzt tot ist. Ich spüre die Verzweifelung
+          seiner Eltern in jeder Faser meines Körpers. Und die Schwerstverletzten,
+          was ist mit ihnen? Verstümmelt und verkrüppelt für den Rest ihres
+          Lebens! Der französische Schriftsteller Michel Houellebecq führte vor
+          kurzem in einem Interview aus, daß es zwei Arten von Menschen gibt,
+          nämlich gute und böse. Heute, einen Tag nach #Magdeburg, fällt es mir
+          schwer ihm zu widersprechen."
+
+
+
+Quelle:
+X
+
+
+
+
+                   Jetzt als Wahlkampf-
+                   motiv herunterladen
+
+
+                                     Motiv ohne Autorenportrait        Download
+
+
+
+
+Für die Zukunft der Demokratie und zur Abwendung einer schweren
+Staatsgefährdung im Bereich Rechtsextremismus müssen Bundesregierung,
+Bundesrat oder Bundestag vor dem Verfassungsgericht folgende Anträge stellen:
+   1. Die Alternative für Deutschland einschließlich ihrer Jugendorganisation
+      Junge Alternative, ihrer innerparteilichen Organisationen und der
+      kommunalpolitischen Vereinigungen ihrer Landesverbände ist
+      verfassungswidrig.
+   2. Die Alternative für Deutschland einschließlich ihrer Jugendorganisation
+      Junge Alternative, ihrer innerparteilichen Organisationen und der
+      kommunalpolitischen Vereinigungen ihrer Landesverbände wird aufgelöst.
+   3. Es ist verboten, Ersatzorganisationen für die Alternative für Deutschland
+      einschließlich ihrer Jugendorganisation Junge Alternative, ihrer
+      innerparteilichen Organisationen und der kommunalpolitischen
+      Vereinigungen ihrer Landesverbände zu schaffen oder bestehende
+      Organisationen als Ersatzorganisationen fortzusetzen.
+   4. Das Vermögen der Alternative für Deutschland einschließlich ihrer
+      Jugendorganisation Junge Alternative, ihrer innerparteilichen Organisationen
+      und der kommunalpolitischen Vereinigungen ihrer Landesverbände wird
+      zugunsten der Bundesrepublik Deutschland für gemeinnützige Zwecke
+      eingezogen.
+
+
+
+Bitte beachten Sie: Die „Alternative für Deutschland“ ist der politische Arm des Rechtsterrorismus in
+Deutschland – eine Heimat für Extremisten, deren verfassungsfeindlichen Bestrebungen beendet
+werden müssen. Mit dem Verbot der Partei geht auch das Verbot von Ersatzorganisationen einher. Das
+Bundesverfassungsgericht entscheidet über die Auflösung der Partei. Die Angriffe, Missachtungen,
+Beschimpfungen und Verleumdungen gegen Regierung, Gerichte und Institutionen sind nicht von der
+Meinungsfreiheit gedeckt, sondern offenbaren die Tendenz der Partei, das Vertrauen der Bevölkerung
+in die Repräsentanten der Bundesrepublik zu erschüttern, um die freiheitliche demokratische
+Grundordnung fragwürdig zu machen. Das Verbot der „Alternative für Deutschland“ bedeutet, alle
+Strukturen aufzulösen, Abgeordnete und Mitarbeitende zu entlassen und die Kreisverbände und
+Jugendorganisationen zu liquidieren. Richterinnen, Lehrer und sonstige Personen im
+Beamtenverhältnis haben sich wissentlich an einem Angriff gegen den Staat beteiligt und müssen mit
+disziplinarischen Konsequenzen rechnen.
+Die Partei „Alternative für Deutschland“ hat zum oben genannten Tatbestand wie folgt Stellung
+bezogen: „Immer wieder wird seitens der Medien, des politischen Gegners und der von ihm
+instrumentalisierten Ämter für Verfassungsschutz unterstellt, die AfD vertrete verfassungswidrige[r]
+Bestrebungen […] und ihr [wird] das Prädikat „demokratisch“ abgesprochen. Durch unser
+Grundsatzprogramm und unsere Wahlprogramme auf Bundes- und Landesebene sowie durch zahllose
+Reden und Verlautbarungen der maßgeblichen Exponenten unserer Partei sind diese vollkommen
+haltlosen Diffamierungen implizit und explizit hundertfach Lügen gestraft.“
+
+
+
+
+          Rechtsextremismus, Kriminalisierung und Herabwürdigung von Bevölkerungsgruppen
+
+
+
+
+   Zur Person
+
+
+   Björn Höcke
+
+     Zur E-Akte
+                        Björn H.
+
+Diese Handakte teilen
+
+
+     Instagram
+         Facebook
+
+         Whatsapp
+
+         Telegram
+
+         Link kopieren
+
+
+
+
+                                     Ein Einzelfall?
+                                   Klicken Sie hier für
+                                   weitere Informationen
+
+
+
+
+            Beweisdatenbank durchsuchen
+
+  Suchbegriff eingeben
+
+  Das erste von der Zivilgesellschaft finanzierte
+   Beweissammlungsverfahren für ein Verbot
+                     der AfD
+
+                  Jetzt spenden!
+
+
+
+
+Ermittlungen finanzieren
+Neu: Der Adenauer SRP+
+
+Impressum
+
+Datenschutz
+
+
+
+
+Melden Sie uns Ihre Hinweise zu verfassungsfeindlichen Bestrebungen der AfD
+jetzt!
+
+    030 - 75 43 74 82
+
