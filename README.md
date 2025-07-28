@@ -232,14 +232,14 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 ---
 KI kann besser MD Dateien verarbeiten da nur reiner Text.
 ---
-´´´
+```
 sudo apt install poppler-utils
-´´´´
+````
 und dann
-´´´
+```
 chmod +x pdf-to-md.sh
 ./pdf-to-md.sh
-´´´´
+````
 ---
 In allen ausführbaren Dateien - Input-Ordner und Output-Ordner/Zieldatei-Namen - gegenfalls editieren
 ---
