@@ -124,6 +124,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
    https://github.com/LinoCasu/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Analyse-Beispiel-3.pdf
    https://github.com/LinoCasu/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Analyse-Beispiel-4.pdf
    https://github.com/LinoCasu/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Warum%20die%20Alternative%20f%C3%BCr%20Deutschland.pdf
+   https://github.com/LinoCasu/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Zitate%20Analyse%20Hausarbeit.pdf
 
 
 5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in quellen.pdf, dem Gericht zugänglich zu machen
