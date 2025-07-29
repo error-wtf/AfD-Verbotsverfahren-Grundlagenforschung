@@ -256,6 +256,11 @@ Zweites macht aus der Liste PDF's.
 ## PDF zu MD Dateien
 
 Mit folgendem Script wurden die Zitate von afd-verbot.de/beweise von einer PDF zu MD-Datei gemacht.
+
+```
+pdf-to-md.sh
+````
+
 Für das Geheimgutachten haben wir aber OCR und TESERACT benutzt, da Bilder mit Poppler nicht ordentlich erfasst wird.
 
 Für PDF zu MD mit Bildern innerhalb der PDF nutzten wir:
