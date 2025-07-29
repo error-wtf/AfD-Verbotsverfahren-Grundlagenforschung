@@ -232,7 +232,7 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 ---
 2. **Ergebnis prüfen**
 
-   * **Linkliste**: `afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 663 URLs.
+   * **Linkliste**: `afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 611 URLs.
    * **PDF‑Ordner**: Enthält 3.611 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03611.pdf`.
 
 ---
