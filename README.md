@@ -242,12 +242,22 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 * **Infinite Scroll‑Mechanik** auf der Seite erfordert ganz kleine Schritte, damit das JavaScript nachladen kann.
 * Zu schnelles Scrollen würde die letzten Seiten gar nicht erst nachladen – wir brauchen solide 0,5 s Pause pro 100 px.
 
-> „Geduld ist eine Tugend – und hier ausnahmsweise unverzichtbar.“ 
+> „Geduld ist eine Tugend – und hier ausnahmsweise unverzichtbar.“
+---
+Sollte die Scroll-Mechanik trotz allem haken oder einem zu langsam sein, kann man auch die alternativen Scripte benutzen:
+```
+afd-verbot-linkliste.py
+afd-verbot-print-proofs.py
+````
+Ersteres lässt einen selber scrollen und erstellt die liste erst wenn man zu ende gescrollt hat.
+Zweites macht aus der Liste PDF's.
 
 ---
 ## PDF zu MD Dateien
+
 ---
 KI kann besser MD Dateien verarbeiten da nur reiner Text.
+
 ---
 ```
 sudo apt install poppler-utils
@@ -259,6 +269,7 @@ chmod +x pdf-to-md.sh
 ````
 ---
 In allen ausführbaren Dateien - Input-Ordner und Output-Ordner/Zieldatei-Namen - gegenfalls editieren
+
 ---
 ## 📚 Zugriff auf Dokumente und Ressourcen
 
