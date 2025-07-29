@@ -190,7 +190,7 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 ├── afd-verbot.de-scrape-dependencies.sh   # Installations‑ und Setup‑Script
 ├── afd-verbot.de-scrape-beweise-zitate.py # Haupt‑Script: langsames Scrollen + Link‑Export + PDF‑Erzeugung
 ├── afd-verbot.de-scrape-link-liste.txt    # Automatisch generierte Liste aller Beweis‑URLs
-├── afd-verbot.de-<DATUM>-proof-00001.pdf  # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03663.pdf
+├── afd-verbot.de-<DATUM>-proof-00001.pdf  # Beispiel‑PDF; tatsächlich: proof-00001.pdf … proof-03611.pdf
 └── README.md                              # Diese Anleitung
 
 ````
@@ -233,7 +233,7 @@ Ein Satz Scripte und Hilfsdateien, um die **gesamte Beweise‑Übersicht** von [
 2. **Ergebnis prüfen**
 
    * **Linkliste**: `afd-verbot.de-scrape-link-liste.txt` enthält alle \~3 663 URLs.
-   * **PDF‑Ordner**: Enthält 3 663 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03663.pdf`.
+   * **PDF‑Ordner**: Enthält 3.611 datierte PDFs, durchnummeriert von `proof-00001.pdf` bis `proof-03611.pdf`.
 
 ---
 
