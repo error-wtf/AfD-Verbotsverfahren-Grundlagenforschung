@@ -258,6 +258,22 @@ Zweites macht aus der Liste PDF's.
 Mit folgendem Script wurden die Zitate von afd-verbot.de/beweise von einer PDF zu MD-Datei gemacht.
 Für das Geheimgutachten haben wir aber OCR und TESERACT benutzt, da Bilder mit Poppler nicht ordentlich erfasst wird.
 
+Für PDF zu MD mit Bildern innerhalb der PDF nutzten wir:
+
+```
+split10_pdf.py
+split_pdf.py
+bulk_ocr_pdfs_to_md.py
+setup_all_ocr_deps.sh
+dependencies.sh
+````
+Die zu bearbeitenden Dateien müssen im selben Ordner liegen.
+Die split-Python-Scripte ermöglichen das splitten in unterschiedlich lange abschnitte.
+Die *.sh dateien sind zum installieren der Abhängigkeiten.
+Das bulk-Script ist das OCR-PDF-zu-MD-Script.
+
+Wir gehen hier nicht näher auf die Funktionsweisen ein, da sie sonst eigentlich ein eigenes Repo bedarfen.
+Diese Dateien sind nur für die Nachrprüfbarkeit unserer Arbeit hinzugefügt.
 
 ---
 KI kann besser MD Dateien verarbeiten da nur reiner Text.
