@@ -143,7 +143,7 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
    https://github.com/LinoCasu/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Warum%20die%20Normalisierung%20der%20AfD%20eine%20Gefahr%20f%C3%BCr%20die%20Demokratie%20darstellt.pdf
 ````
 
-5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in quellen.pdf, dem Gericht zugänglich zu machen
+5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in ```quellen.pdf```` , dem Gericht zugänglich zu machen
 
    
 ## Mitwirkung
