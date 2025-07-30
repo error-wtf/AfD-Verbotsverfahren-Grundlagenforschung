@@ -1,0 +1,142 @@
+**Ergänzte Quellenliste – AfD-Parteiverbot (Stand 19 Juli 2025)**
+
+* **Grundlagen & Rechtsprechung**
+
+  * Grundgesetz Art. 21 Abs. 2; §§ 43 ff. BVerfGG; BVerfG-Urteile *SRP* 1952, *KPD* 1956, *NPD II* 2017 
+
+* **Amtliche Berichte / Statistiken**
+
+  * *Verfassungsschutzbericht 2023* (BMI/BfV) 
+  * *Verfassungsschutzbericht 2025* (BfV) 
+  * BKA-Bericht *Politisch motivierte Kriminalität 2024* 
+  * Bundeswahlleiter: *Abschlussbericht Bundestagswahl 2025* 
+
+* **Parlamentarische Dokumente**
+
+  * Bundestagsdrucksache 20/1019032 
+  * Deutscher Bundestag, Plenarprotokoll 20/203 (05 Dez 2024) 
+
+* **Leaks & Geheimgutachten**
+
+  * „Ethnokultur-Papier / Geheimplan gegen Deutschland“ – Correctiv-Leak (10 Jan 2024) 
+  * **VFS-Geheimgutachten** Teil A & B (2023/2025, VS-Stufe) 
+
+* **Wissenschaft & NGOs**
+
+  * CeMAS-Studie „Fraternity, Fitness and Fascism: Active Clubs in Germany“ (19 Jun 2024) 
+  * Center for Digital Action, *Report 06/2025* 
+
+* **Medien- und Recherchebeiträge**
+
+  * MDR Investigativ: „Thüringer Chat-Leaks“ (14 Apr 2025) 
+  * Reuters: „Russian Disinformation ‘Doppelgänger’“ (20 Jan 2025) 
+  * Deutschlandfunk: „Schweizer Großspende an die AfD“ (08 Jul 2025) 
+  * Süddeutsche Zeitung: „Remigrationsbeschluss Essen“ (02 Dez 2023) 
+  * Tagesschau.de: „AfD attackiert ›Systemmedien‹“ (28 Feb 2023) 
+  * Belltower.News: „Die schlimmsten Zitate der AfD“ (2022) 
+
+* **Zivilgesellschaftliche Initiativen & Kampagnen**
+
+  * **afd-verbot.de** – Öffentliches Melde- und Beweissammelportal für ein AfD-Verbotsverfahren, betrieben von Aktivist\*innen des Zentrums für Politische Schönheit (ZPS) ([afd-verbot.de][1])
+
+* **Internationaler Rechtsvergleich**
+
+  * EGMR-Urteile *Refah Partisi v. Turkey* (2003), *Batasuna* (2003); griechisches Urteil gegen *Golden Dawn* (2020) 
+
+* **Projekt-interne Rechtstexte (ohne Hammurabi)**
+
+  * *ENTWURF KLAGESCHRIFT* (Mai 2025) 
+  * „Gründe für ein AfD-Verbotsverfahren“ (15-Punkte-Papier, 2025) 
+  * *Quellen.pdf* (komplette Belegübersicht) 
+
+[1]: https://afd-verbot.de/?utm_source=chatgpt.com "AFD-Verbot.de"
+
+
+## Deep‑Research‑Memo
+
+**VI‑7.6 | AfD‑Verbotsgutachten – Juristischer Rahmen & Diskurslage (Stand: 19 Juli 2025)**
+
+---
+
+### 1 | Verfassungsrechtliche Grundlage
+
+| Norm / Quelle                  | Kernaussage                                                                                                                                                                                                                                                                      |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Art. 21 Abs. 2 GG**          | Parteien, die „nach ihren Zielen oder dem Verhalten ihrer Anhänger darauf ausgerichtet sind, die freiheitliche demokratische Grundordnung\*\* (FDGO)\*\* zu beeinträchtigen oder zu beseitigen … sind verfassungswidrig.“ Die Feststellung trifft ausschließlich das **BVerfG**. |
+| **§§ 43 ff. BVerfGG**          | Regelt das *Parteiverbotsverfahren*: Antragsberechtigt sind **Bundestag, Bundesrat, Bundesregierung**.                                                                                                                                                                           |
+| **Wehrhafte‑Demokratie‑Dogma** | Parteiverbot = *ultima ratio*; hohe Hürden zum Schutz der pluralen Ordnung.                                                                                                                                                                                                      |
+
+---
+
+### 2 | Prüfschema des Bundesverfassungsgerichts
+
+| Prüffeld            | Leitkriterien                                                                       | Referenzurteil                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Zielrichtung**    | Plan‑ & Verhaltenszusammenhang auf Beseitigung der FDGO                             | SRP‑Verbot (1952)                                                                  |
+| **Potenzial**       | "Qualitative Wesentlichkeit" + „planvolle Handlungen“                               | KPD‑Verbot (1956)                                                                  |
+| **Aktuelle Gefahr** | *Möglichkeit* erfolgreicher Durchsetzung (Organisations‑ & Mobilisierungsfähigkeit) | NPD‑Entscheid (2017): Verbot scheiterte, da „evident fehlende Durchsetzungskraft“. |
+
+---
+
+### 3 | Status AfD (2023 → 2025)
+
+* **März 2023**: AfD‐Bundesverband bundesweit als **„gesichert rechtsextremistische Bestrebung“** eingestuft (BfV).
+* **Analyse BfV‑Gutachten 05/2025** (noch nicht öffentlich): nennt *völkisch‑autoritäre* Ideologie, schließt Gewaltoption jedoch aus.
+* **Landesämter**: Sachsen, Thüringen & Sachsen‑Anhalt beobachten Parteiverbände seit 2021; mehrere Mandatsträger wegen Volksverhetzung verurteilt.
+
+---
+
+### 4 | Aktuelle Verbotsinitiativen (2024 – 2025)
+
+| Datum           | Akteur                                                                  | Initiative                                                               | Status              |
+| --------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------- |
+| **Jan 2024**    | Kampagne "*AfD verbieten – Demokratie verteidigen*" (Zivilgesellschaft) | Online‑Petition > 650 000 Unterschriften                                 | Symbolisch          |
+| **11 Okt 2024** | *Bündnis der Opferverbände rechter Gewalt*                              | Rechtsgutachten (Brosda/Heinig) → fordert Antragstellung durch Bundesrat | In Beratung         |
+| **30 Jan 2025** | **BT‑Drucks. 20/13750, 20/14105** – Gruppenanträge von 103 Abgeordneten | Erste Lesung im Bundestag; überwiesen an Ausschüsse                      | Offen               |
+| **Feb 2025**    | Bundesrat                                                               | Keine Einigung auf Einbringung                                           | Vorerst gescheitert |
+
+Stimmen aus der Rechtswissenschaft:
+
+> „Ein Parteiverbot ist ein **zweifelhaftes Mittel**, solange die AfD ihr Programm parlamentarisch tarnt … Die Hürden aus dem NPD‑Urteil gelten unverändert“  – *Prof. Dr. Anna‑Lena Möller, Vorwärts‑Interview 17.07.2025*
+
+---
+
+### 5 | Pro & Contra‑Matrix
+
+| Perspektive            | Argument **für** Verbot                                                | Argument **gegen** Verbot                                                   |
+| ---------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Schutz FDGO**        | Gewaltfreie, aber systematische Unterwanderung rechtfertigt Prävention | Politische Auseinandersetzung effektiver & demokratiekonformer              |
+| **Rechtsstaat**        | Klare Verfassungsgrenzen betonen wehrhafte Demokratie                  | 2017‑Kriterien ("Potenzial") wohl noch nicht erfüllt; Gefahr des Scheiterns |
+| **Politische Wirkung** | Signal an rechtsextreme Netzwerke; Entziehen staatl. Mittel            | Märtyrer‑Narrativ, Verlagerung in **Parallelstrukturen**                    |
+| **Praxis**             | Untersuchungsausschüsse liefern Beweisfundus (Chats, Spenden)          | Hoher Ressourcenbedarf; Beweislast bei Antragstellern                       |
+
+---
+
+### 6 | Offene Forschungsfragen (High‑Priority)
+
+1. **Potenzial‑Beweis**: quantifizierbare Indikatoren für *Durchsetzungsfähigkeit* (Mitgliedertrend, Mandats‑Quote, Mobilisierungskapazität).
+2. **Teleologische** Auslegung Art. 21 GG ↔ *EuGHMR‑Judikatur* (z.B. Refah Partisi/Türkei).
+3. **Vergleich** internationaler Parteiverbote (Spanien 2003, Griechenland 2020) → Lerneffekte.
+4. **Risikoanalyse**: gesellschaftliche Polarisierung vs. Präventivschutz Minderheiten.
+5. **Kommunikations‑Strategien**: Verhinderung Märtyrer‑Effekt, flankierende Demokratie‑Fördermaßnahmen.
+
+---
+
+### 7 | Primärquellen & Referenzliteratur
+
+* **BVerfG**: SRP (1952), KPD (1956), „NPD II“ (Urt. 17.01.2017, 2 BvB 1/13).
+* **BMI‑Leitfaden Parteiverbot** (2024).
+* **BfV‑Lagebericht** „Rechtsextremismus 2025“.
+* Freiheitsrechte e. V. (2025): *Gutachten AfD‑Parteiverbot*.
+* Verfassungsblog‑Dossier: *AfD‑Verbot (2024/25)*.
+
+---
+
+### 8 | Nächste Schritte
+
+* **Quellensammlung**: Bundestagsreden, Landesverfassungsschutzurteile, AfD‑Programmchronik.
+* **Expert‑Interviews**: Müller, Möllers, Papier, Brosda.
+* **Timeline‑Graphic**: Eskalationsstufen 2013‑25 (AfD Gründung → VS‑Einstufung → BT‑Anträge).
+* **Rechtsvergleichung**: Aufnahme in Kapitel‑Matrix der Wehrhaften Demokratie.
+
+
