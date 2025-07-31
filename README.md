@@ -146,6 +146,10 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 ```
    https://github.com/LinoCasu/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/Claude%20-%20Warum%20ein%20AfD-Verbot%20verfassungsrechtlich%20geboten%20und%20demokratiepolitisch%20%C3%BCberf%C3%A4llig%20ist.pdf
 ````
+   Beispiel 7:
+```
+   https://github.com/LinoCasu/AfD-Verbotsverfahren-Grundlagenforschung/blob/main/ChatGPT%20-%20Szenarioanalyse_%20AfD-Wahlsieg%202025%20und%20Regierungs%C3%BCbernahme%20(2025%E2%80%932029).pdf
+````
 
 5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in [`quellen.pdf`](./quellen.pdf) , dem Gericht zugänglich zu machen
 
