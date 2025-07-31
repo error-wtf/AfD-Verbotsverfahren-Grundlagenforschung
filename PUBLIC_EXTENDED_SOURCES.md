@@ -401,3 +401,36 @@ Die Kombination aus:
 schafft die rechtlich solideste Grundlage für ein Parteiverbotsverfahren in der Geschichte der Bundesrepublik Deutschland.
 
 **Rechtliche Einschätzung**: Die Quellenlage erfüllt sowohl das **materielle Kriterium** (verfassungsfeindliche Ziele und Verhalten) als auch das seit 2017 erforderliche **Potentialitätskriterium** (realistische Erfolgschancen) für ein Parteiverbot nach Art. 21 Abs. 2 GG.
+
+---
+Quellenliste (öffentlich zugängliche Referenzen aus dem AfD-Deep-Research-Dossier)
+Verfassungsschutzberichte
+Verfassungsschutzbericht 2023 – Bundesamt für Verfassungsschutz (BfV) – Jahresbericht des BfV über das Jahr 2023 (Publikation 2024). PDF-Version (offizielle BfV-Website)
+Verfassungsschutzbericht 2024 – Bundesamt für Verfassungsschutz (BfV) – Jahresbericht des BfV über das Jahr 2024 (Publikation 2025). PDF-Version (offizielle BfV-Website)
+Verfassungsschutzbericht 2024 – Bayerisches Landesamt für Verfassungsschutz – Jahresbericht 2024 des LfV Bayern (Publikation 2025). PDF-Version (Bayerische Extremismus-Info)
+Bundestagsdrucksachen & Plenarprotokolle
+Deutscher Bundestag (20. Wahlperiode) – Wortprotokoll „Sicherheitspaket“-Anhörung (Drucksache 20/1019032, 23. 09. 2024). Öffentlicher Protokollauszug des Innenausschusses mit Aussagen zu Gewaltaufrufen. PDF online
+Deutscher Bundestag – Plenarprotokoll 86. Sitzung (23. 09. 2024). Protokoll der Bundestagsdebatte über Hass und Hetze („Hetze-Debatte“). PDF online
+Deutscher Bundestag – Plenarprotokoll 203. Sitzung (05. 12. 2024). Protokoll der Bundestagsdebatte zur Verfassungsschutz-Thematik („VfS-Anhörung“). PDF online
+Gerichtsurteile
+Bundesverfassungsgericht – Verbot der Sozialistischen Reichspartei (SRP) – Urteil vom 23. Oktober 1952 (BVerfGE 2, 1). Entscheidungstext online
+Bundesverfassungsgericht – Verbot der Kommunistischen Partei Deutschlands (KPD) – Urteil vom 17. August 1956 (BVerfGE 5, 85). Entscheidungstext online
+Bundesverfassungsgericht – NPD-Verbotsurteil (kein Parteiverbot) – Urteil vom 17. Januar 2017 (BVerfGE 123, 267). Leitsätze und Volltext zum Verbotsantrag gegen die NPD. Entscheidung (BVerfG-Mitteilung)
+Medienberichte & Investigativjournalismus
+Correctiv (2024): „Geheimplan gegen Deutschland“ – Investigativbericht über ein geheimes AfD-Treffen und Pläne zur „Remigration“ (Vertreibung Millionen Menschen). Correctiv, 10. 01. 2024. Online-Artikel
+Süddeutsche Zeitung (2023): „Remigrationsbeschluss Essen“ – Bericht über den AfD-Parteitagsbeschluss zur „Remigration“ (Essen 2023). SZ, 02. 12. 2023. Online-Artikel
+Tagesschau.de (2023): „AfD attackiert ‚Systemmedien‘“ – Meldung zur Verwendung des Schlagworts „Systemmedien“ durch die AfD (antisemitische Chiffre für angeblich gesteuerte Presse). ARD Tagesschau, 28. 02. 2023. Online-Artikel
+Belltower.News (2022): „Die schlimmsten Zitate der AfD“ – Sammlung von über 100 menschenfeindlichen und hetzerischen AfD-Zitaten (Hrsg. Amadeu Antonio Stiftung). Belltower.News, 2022. Online-Artikel
+MDR Investigativ (2025): „Thüringer Chat-Leaks“ – Recherche zu internen AfD-Chats aus Thüringen, u. a. Plan zur „Säuberung“ von Ministerien durch AfD-Personal. MDR, 14. 04. 2025. Online-Artikel
+Reuters (2025): „Russian disinformation targets German election campaign“ – Bericht über russische Desinformationskampagne („Operation Doppelgänger“) zugunsten der AfD vor der Bundestagswahl 2025. Reuters, 20. 01. 2025 (Sarah Marsh). Online-Artikel
+Deutschlandfunk (2025): „Schweizer Großspende an die AfD“ – Nachricht über eine verschleierte Großspende aus der Schweiz an die AfD und mögliche Geldwäsche-Ermittlungen. DLF, 08. 07. 2025. Online-Artikel
+afd-verbot.de – Öffentliches Melde- und Beweissammelportal – Interaktives Online-Portal (zivilgesellschaftliche Initiative) zur Meldung und Dokumentation von AfD-verfassungsfeindlichen Vorfällen. Webportal
+Wissenschaftliche Studien & NGO-Reports
+Deutsches Institut für Menschenrechte (DIMR) – „Warum die AfD verboten werden könnte – Empfehlungen an Staat und Politik“ (Analyse, Juni 2023). Autor: Hendrik Cremer. Untersuchung der Verfassungsfeindlichkeit der AfD und Handlungsempfehlungen
+institut-fuer-menschenrechte.de
+. PDF-Download
+CeMAS-Studie (2024): „Fraternity, Fitness and Fascism: Active Clubs in Germany“ – Report vom 19. 06. 2024 über rechtsextreme Active Clubs in Deutschland und Verbindungen zur AfD. Hrsg.: Center für Monitoring, Analyse und Strategie (CeMAS). PDF-Download
+Internationaler Rechtsvergleich
+EGMR – Urteil Refah Partisi (Welfare Party) ./. Türkei (2003) – Europäischer Gerichtshof für Menschenrechte, Entscheidung zur Auflösung der islamistischen Wohlfahrtspartei Refah Partisi. Entscheidungstext
+EGMR – Urteil Herri Batasuna und Batasuna ./. Spanien (2009) – EGMR-Entscheidung zur Verbotsbestätigung der baskischen Parteien Batasuna/Herri Batasuna. Entscheidungstext
+EGMR – Urteil Partei „Golden Dawn“ ./. Griechenland (2020) – EGMR-Entscheidung zur Rechtmäßigkeit des Verbots der neonazistischen Partei Chrysi Avgi (Goldene Morgenröte). Entscheidungstext
