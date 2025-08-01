@@ -399,6 +399,11 @@ Hier alle 15 Verbotsgründe:
 ---
 
 Alle Quellenangaben sind in den Dateien enthalten.
+---
+
+[![YouTube Video: Einführung](https://img.youtube.com/vi/Pb21x8gALRg/0.jpg)](https://www.youtube.com/watch?v=Pb21x8gALRg)
+
+---
 
 
 https://afd-verbot.de
