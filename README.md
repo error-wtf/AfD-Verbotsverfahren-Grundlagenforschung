@@ -627,7 +627,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 ## Neu hinzugefügt: AfD-Bundestagswahlprogramm 2025 (Primärquelle)
 
 **Datei:** `AfD_Bundestagswahlprogramm2025_web.pdf`  
-**Beschluss:** Verabschiedet auf dem 16. Bundesparteitag (Riesa, 11.–12. Jan. 2025). :contentReference[oaicite:0]{index=0}
+**Beschluss:** Verabschiedet auf dem 16. Bundesparteitag (Riesa, 11.–12. Jan. 2025). 
 
 ---
 
@@ -655,7 +655,7 @@ Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbots
 ---
 
 - Die **Primärquelle (Wahlprogramm 2025)** ist jetzt im Repo dokumentiert.
-- **Höchstes FDGO-Risiko** tragen Passagen, die **Religion pauschal politisieren und beschränken** (Islam-Komplex), die **Institutionen der wehrhaften Demokratie** (insb. Verfassungsschutz) **strukturell delegitimieren/umbauen** wollen sowie Hebel **direkter Demokratie** so ausweiten, dass **Minderheitenschutz** und **Ewigkeitsgarantien** unter Mehrheitsdruck geraten könnten. :contentReference[oaicite:17]{index=17} :contentReference[oaicite:18]{index=18}
+- **Höchstes FDGO-Risiko** tragen Passagen, die **Religion pauschal politisieren und beschränken** (Islam-Komplex), die **Institutionen der wehrhaften Demokratie** (insb. Verfassungsschutz) **strukturell delegitimieren/umbauen** wollen sowie Hebel **direkter Demokratie** so ausweiten, dass **Minderheitenschutz** und **Ewigkeitsgarantien** unter Mehrheitsdruck geraten könnten. 
 
 ---
 
