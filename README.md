@@ -265,6 +265,55 @@ rg -n --iglob 'Geheimgutachten_*' -e 'Volksbegriff|Menschenwürde|ethnisch|völk
 ```
 
 ---
+## Projektstruktur
+
+Das Repository ist in thematische Bereiche gegliedert:
+
+### 1. Analysen & Begründung
+- ChatGPT - Analyse-Beispiel.pdf
+- ChatGPT - Analyse-Beispiel-2.pdf
+- ChatGPT - Analyse-Beispiel-3.pdf
+- ChatGPT - Analyse-Beispiel-4.pdf
+- ChatGPT - Warum die Alternative für Deutschland.pdf
+- ChatGPT - Begründung für ein entschiedenes Handeln.pdf
+- ChatGPT - BRANDBRIEF.pdf
+
+### 2. Externe Gutachten & Stellungnahmen
+- Claude - Warum ein AfD-Verbot verfassungsrechtlich geboten und demokratiepolitisch überfällig ist.pdf
+- Untersuchung-BfV-Gutachten-und-AfD-Parteiverbot.pdf
+- AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf
+- Mögliches AfD-Verbot_ Gutachten liefert neue Argumente.pdf
+
+### 3. Offizielle Dokumente & Quellen
+- Bundesverwaltungsgericht_ AfD-Einstufung als Verdachtsfall (Tagesschau).pdf
+- quellen.pdf (Übersicht zu allen zitierten Dokumenten und parlamentarischen Protokollen)
+- leicht zugängliche Quellen.txt
+
+### 4. DeepResearch-Datensätze
+- afd-verbot-deepresearch-ausgangspunkt_split_1.txt – split_8.txt
+
+---
+
+## Quellenlage
+Die Datei **quellen.pdf** enthält eine konsolidierte Übersicht zu den verwendeten Belegen.  
+Dort sind u. a. enthalten:
+- Verfassungsschutzberichte (BMI)
+- Bundestagsprotokolle (Plenar- und Ausschusssitzungen)
+- Juristische Referenzen (BVerfG, BVerfGG, § 21 GG)
+- Hinweise auf nicht-öffentliche, aber alternative öffentlich zugängliche Dokumente
+
+→ Diese Datei dient als verbindlicher Kern-Nachweis der Zitate und Argumentationslinien:contentReference[oaicite:1]{index=1}.
+
+---
+
+## Erklärung
+- **Analysen** dienen als argumentative Grundlage (zivilgesellschaftliche & KI-generierte Perspektiven).  
+- **Gutachten** liefern juristische und verfassungsrechtliche Begründungen.  
+- **Quellen** sichern Nachprüfbarkeit durch amtliche Dokumente.  
+- **DeepResearch** bündelt Langtexte, die für KI-gestützte Auswertungen vorbereitet sind.
+
+
+---
 
 
 # Nutzung
