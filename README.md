@@ -262,10 +262,12 @@ rg -n --iglob 'zitate/*.md' -e 'paramilitär|Kampfsport|Active Club|Schieß|Waff
 
 # Beispiel: Volksbegriff-/Menschenwürde-Fundstellen in Geheimgutachten
 rg -n --iglob 'Geheimgutachten_*' -e 'Volksbegriff|Menschenwürde|ethnisch|völkisch'
+```
+
+---
 
 
-
-## Nutzung
+# Nutzung
 
 1. **Repository klonen**
    ```bash
