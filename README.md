@@ -2,6 +2,33 @@
 
 Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungsergebnisse zur Vorbereitung einer Klageschrift gegen die Partei „Alternative für Deutschland“ (AfD) beim Bundesverfassungsgericht.
 
+## Zweck & Scope (KI-Quellenbündel)
+
+Dieses Repository ist **eine Bündelung öffentlich zugänglicher Quellen** als **Basiskorpus für KI-gestützte Analyse** (Suche, Retrieval, Clustering).  
+Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweismittelaufbereitung für ein Gericht.
+
+### Was dieses Repo ist
+- **Quellenbasis**: Primärdokumente (Amt/Parlament/Partei) + Sekundärmaterial + Programmschriften.
+- **KI-tauglich**: Strukturierte Ablage und Textfassungen zur maschinellen Auswertung.
+- **Transparenz**: Soweit möglich mit **Original-URLs** und **Archiv-Links**; viele Quellen werden „möglichst vollständig“ bereitgestellt.
+
+### Was es ausdrücklich nicht ist
+- **Keine Rechtsberatung, keine Klageschrift** und **keine gerichtsfertige Beweisdatei**.
+- **Keine Authentizitätsgarantie** im juristischen Sinn: Die **gerichtliche Übermittlung/Beweislogik** obliegt Fachjurist:innen.
+
+### Hinweise für professionelle Teams
+- **Gerichtsfeste Aufbereitung** (Chain of Custody, Pinpoint-Zitate, Zurechnung, Potentialität/Planmäßigkeit) wird **extern** erstellt.
+- Wo verfügbar, sind **Original- und Archiv-Links** hinterlegt; **Hashes/Provenienz** können ergänzend erzeugt werden.
+- **OCR-/Transkriptstellen** sind als solche zu behandeln; maßgeblich sind **Original-PDFs/-Scans**.
+
+### Empfohlene Nutzung mit KI
+- Retrieval über Dateinamen/Ordner + Volltext (z. B. Vektorindex).  
+- Ergebnislisten **immer** mit Originalquelle gegenprüfen.  
+- **Aus KI-Analysen folgen keine Beweiswerte** – sie sind nur Navigatoren zu den Quellen.
+
+> Kurz: Das Repo liefert die **Quellen in Breite und Struktur**. Die **formale Übergabe an das Gericht** (Seiten-/Randnummern, Beweisführung, eidesstattliche Erklärungen etc.) obligt **den Profis**.
+
+
 ## Projektübersicht
 
 - **Sachverhalt & Grundlagen:** Ausformulierte Entwürfe (PDFs) zum erweiterten Sachverhalt und den rechtlichen Grundlagen.
