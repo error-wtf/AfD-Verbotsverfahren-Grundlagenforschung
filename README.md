@@ -622,7 +622,40 @@ Ein **Parteiverbot der AfD ist nicht nur möglich, sondern verfassungsrechtlich 
 ### Bedeutung:
 Das Gutachten liefert damit eine fundierte juristische Grundlage, um ein Verbotsverfahren einzuleiten. Es versteht das Parteiverbot nicht als ultima ratio, sondern als verfassungsrechtlich gebotene Maßnahme, wenn eine Partei aktiv die Demokratie untergräbt und andere Mittel ausgeschöpft sind.
 
+---
 
+## Neu hinzugefügt: AfD-Bundestagswahlprogramm 2025 (Primärquelle)
+
+**Datei:** `AfD_Bundestagswahlprogramm2025_web.pdf`  
+**Beschluss:** Verabschiedet auf dem 16. Bundesparteitag (Riesa, 11.–12. Jan. 2025). :contentReference[oaicite:0]{index=0}
+
+---
+
+## Relevanz für ein Parteiverbots-Gutachten (FDGO-Risikoindikatoren)
+
+> Hinweis: Die folgenden Punkte markieren **mögliche Konfliktfelder mit der freiheitlichen demokratischen Grundordnung (FDGO)** – insbesondere Menschenwürde, Gleichheit, Religionsfreiheit, Pluralismus sowie die Funktionsbedingungen des demokratischen Rechtsstaats. Es sind **Programmpassagen**, keine Beweiswürdigung einzelner Taten.
+
+### 1) Religion & Minderheitenschutz
+- **Generalpräventive Politik gegen „weitere Ausbreitung des Islam“**; Forderungskatalog u. a. gegen Körperschaftsstatus, Minarett- und Muezzinverbot, Abschaffung islamtheologischer Lehrstühle (stattdessen „bekenntnisneutrale Islamwissenschaft“). Dies zielt nicht nur auf Islamismus, sondern umfasst strukturell den **Islam als Religion**. Konfliktpotenzial v. a. mit **Art. 4 GG (Religionsfreiheit)** und dem Gleichheitssatz. 
+
+### 2) Demokratie-Institutionen & „Schutzorgane“
+- **„Verfassungsschutz grundsätzlich reformieren“**, verbunden mit der Diagnose „zum Regierungsschutz degeneriert“. Die geforderte grundlegende Umgestaltung bei gleichzeitiger Umverteilung von Aufgaben an BND/Polizei hat **hohes Missbrauchs- und Einschüchterungsrisiko**, wenn eine künftige Regierungsmehrheit diese Dienste politisiert. 
+- **„Entpolitisierung der Justiz“** inkl. Abschaffung der ministeriellen Weisungsgebundenheit, Umbau der Richterwahl. Einzelmaßnahmen sind im Detail diskutabel; im Paket kann eine **gerichtsskeptische Delegitimierung** mitschwingen, wenn zugleich Medien/Parlament pauschal diskreditiert werden. 
+
+### 3) Direkte Demokratie als Hebel zur Verfassungsänderung
+- **Volksabstimmungen „nach Schweizer Vorbild“** mit weitreichenden Sperr- und Zustimmungsmechanismen (u. a. ohne Volk keine GG-Änderung; wesentliche Verträge nur mit Volksentscheid). Direkte Demokratie ist legitim, **kollidiert aber mit dem Ewigkeitskern (Art. 79 III GG)**, wenn Grundrechtsgarantien faktisch dem Mehrheitswillen unterstellt werden. 
+
+### 4) Supranationale Ordnung & Souveränität
+- **WHO/UNO/EU als „Weg zur Weltregierung“**, bis hin zu **Austritt/Vertragskündigung** (Pandemievertrag, Global Compacts). Völkerrechtliche Kurswechsel sind politisch zulässig; problematisch wird es, wenn sie mit **faktischer Entkoppelung von internationalen Grund- und Mindeststandards** einhergehen und innenpolitisch zur **Delegitimierung unabhängiger Expertise** genutzt werden. 
+
+### 5) Finanz-/Digitalordnung & „Analoges Leben“
+- **„Bargeld ist Freiheit“**: Verfassungsrang fürs Bargeld, umfassende Skepsis gegenüber digitalem Euro, Identitäten, Registern – mit dystopischen Überwachungsnarrativen. **Grundrechte-Rhetorik gegen EU-Rechtsakte** kann zu systematischer **Delegitimierung rechtsstaatlicher Regulierung** führen. 
+- **Bitcoin „weitgehend deregulieren“** und staatliche Distanz maximieren. Politisch diskutabel, aber mit **Compliance-/Geldwäsche-Risiken** und institutioneller Entkopplung. 
+
+---
+
+- Die **Primärquelle (Wahlprogramm 2025)** ist jetzt im Repo dokumentiert.
+- **Höchstes FDGO-Risiko** tragen Passagen, die **Religion pauschal politisieren und beschränken** (Islam-Komplex), die **Institutionen der wehrhaften Demokratie** (insb. Verfassungsschutz) **strukturell delegitimieren/umbauen** wollen sowie Hebel **direkter Demokratie** so ausweiten, dass **Minderheitenschutz** und **Ewigkeitsgarantien** unter Mehrheitsdruck geraten könnten. :contentReference[oaicite:17]{index=17} :contentReference[oaicite:18]{index=18}
 
 ---
 
