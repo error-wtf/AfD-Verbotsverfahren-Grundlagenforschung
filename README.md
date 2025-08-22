@@ -101,6 +101,170 @@ Dieses Repository sammelt die zentralen Dokumente, Textfragmente und Forschungse
 | `lto.de/…interview-felor-badenberg-afd-verbot/`                                                                  | LTO‑Interview mit Felor Badenberg zur AfD‑Verbotsdebatte                                                                             |
 | `cambridge.org/core/journals/european-law-review/…bverfg-practice/`                                              | Cambridge Law Journal: Vergleich europäischer Parteienverbote (BVerfG‑Praxis)                                                        |
 | `afd-verbot.de/beweise`                                                                                          | Zitate Sammlung der Afd durch afd-verbot.de  - Zentrum für politische Schönheit                                                      |
+
+---
+
+# Ergänzungen thematisch sortiert
+
+---
+
+## 1) Thematische Gliederung mit vollständiger Dateiliste
+
+### A) Klageschrift & Argumente (2)
+- `ENTWURF KLAGESCHRIFT - ERWEITERTER SACHVERHALT - GRUNDLAGEN .pdf`
+- `ENTWURF KLAGESCHRIFT .pdf`
+
+---
+
+### B) Gutachten & Rechtsanalysen (21)
+- `AfD-Verbot_ Alle Anträge, Abstimmungen und Gutachten.pdf`
+- `ChatGPT - Analyse-Beispiel.pdf`
+- `ChatGPT - Analyse-Beispiel-2.pdf`
+- `ChatGPT - Analyse-Beispiel-3.pdf`
+- `ChatGPT - Analyse-Beispiel-4.pdf`
+- `ChatGPT - BRANDBRIEF.pdf`
+- `ChatGPT - Begründung für ein entschiedenes Handeln.pdf`
+- `ChatGPT - Warum die Alternative für Deutschland.pdf`
+- `Gründe für ein Afd-Verbots-Verfahren - KI generiert - PDF.pdf`
+- `Gründe.txt`
+- `Im Folgenden werden die zuvor genannten 15 Gründe für ein Parteiverbot der AfD jeweils ausführlich begründet.pdf`
+- `Ludwigshafen_ AfD-Politiker darf nicht bei OB-Wahl antreten, das sind die Gründe _ taz.de.pdf`
+- `Mögliches AfD-Verbot_ Gutachten liefert neue Argumente.pdf`
+- `Warum die AfD eine Gefahr für die Demokratie ist.pdf`
+- `Warum die Alternative für Deutschland verboten gehört.pdf`
+- `Warum die Normalisierung der AfD eine Gefahr für die Demokratie darstellt.pdf`
+- `untersuchung-bfv-gutachten-und-afd-parteiverbot.pdf`
+- `warum die afd verboten gehört.pdf`
+- `zusammenfassung_vfs_gutachten_afd.txt`
+- `02_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
+- `08_www.institut-fuer-menschenrechte.de_fileadmin_Redaktion_Pub...Analyse_Warum_die_AfD_verboten_werden_koennte.pdf.pdf`
+
+---
+
+### C) Amtliche Quellen (BfV/BMI/BKA/BT/BR/BVerfG) (21)
+- `01_dserver.bundestag.de_btd_20_010_2001020.pdf.pdf`
+- `02_dserver.bundestag.de_btd_20_133_2013317.pdf.pdf`
+- `03_dserver.bundestag.de_btp_20_20203.pdf.pdf`
+- `07_dserver_bundestag_de_btd_20_010_2001020.pdf`
+- `08_dserver_bundestag_de_btd_20_133_2013317.pdf`
+- `09_dserver_bundestag_de_btp_20_20203.pdf`
+- `01_www_verfassungsschutz_de_...verfassungsschutzbericht-2023.pdf`
+- `02_www_verfassungsschutz_de_...verfassungsschutzbericht-2023.html.pdf`
+- `03_www_verfassungsschutz_de_...verfassungsschutzbericht-2024.pdf`
+- `04_www_verfassungsschutz_de_...verfassungsschutzbericht-2024.html.pdf`
+- `05_www_bmi_bund_de_...vsb2023-BMI24018.pdf`
+- `06_www_bmi_bund_de_...BMI25029-vsb2024.pdf`
+- `18_verfassungsschutzberichte.de_.pdf`
+- `AfD-Spende_ Bundestag sieht Tatverdacht bestätigt.pdf`
+- `Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse - SZ.de.pdf`
+- `Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf`
+- `03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
+- `04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
+- `09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
+- `10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
+- `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
+
+> Hinweis: Einige Pressestücke sind hier eingeordnet, weil sie amtliche Einstufungen/Verfahrensstände dokumentieren. In der README kann man sie als **Sekundärbelege zu amtlichen Vorgängen** kennzeichnen.
+
+---
+
+### D) Geheimgutachten (OCR/Textfragmente) (24)
+- `Geheimgutachten_Teil A_pages_1_to_100.txt`
+- `Geheimgutachten_Teil A_pages_101_to_200.txt`
+- `Geheimgutachten_Teil A_pages_201_to_300.txt`
+- `Geheimgutachten_Teil A_pages_301_to_400.txt`
+- `Geheimgutachten_Teil A_pages_401_to_500.txt`
+- `Geheimgutachten_Teil A_pages_501_to_508.txt`
+- `Geheimgutachten_Teil B_pages_1_to_100.txt`
+- `Geheimgutachten_Teil B_pages_101_to_200.txt`
+- `Geheimgutachten_Teil B_pages_201_to_300.txt`
+- `Geheimgutachten_Teil B_pages_301_to_400.txt`
+- `Geheimgutachten_Teil B_pages_401_to_500.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_1_to_10.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_11_to_20.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_21_to_30.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_31_to_40.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_41_to_50.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_51_to_60.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_61_to_70.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_71_to_80.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_81_to_90.txt`
+- `Geheimgutachten_Teil B_pages_501_to_600_repaired_pages_91_to_100.txt`
+- `Geheimgutachten_Teil B_pages_601_to_609_repaired_pages_1_to_9.txt`
+- (sowie 2 DW‑PDF‑Clippings zum Einstufungsverfahren; als Kontext eingefügt)
+
+---
+
+### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3 614)
+- Ordner: `zitate/`
+- Struktur: `afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.md`  
+- **Beispiele**:  
+  - `zitate/afd-verbot.de-28.07.2025-proof-00001.md`  
+  - `zitate/afd-verbot.de-28.07.2025-proof-00002.md`  
+  - `zitate/afd-verbot.de-28.07.2025-proof-00003.md`  
+  - `…`  
+  - `zitate/afd-verbot.de-28.07.2025-proof-03609.md`  
+  - `zitate/afd-verbot.de-28.07.2025-proof-03610.md`  
+  - `zitate/afd-verbot.de-28.07.2025-proof-03611.md`
+
+> **README‑Hinweis**: In der Datei `afd-verbot.de-scrape-link-liste.txt` liegt die maschinenlesbare Linkliste.  
+> Die Proof‑Dateien sind vollständig nummeriert (00001–03611) und chronologisch datiert.
+
+---
+
+### F) Skripte & Tools (18)
+- `afd-verbot.de-scrape-dependencies.sh`
+- `afd-verbot.de-scrape-beweise-zitate.py`
+- `afd-verbot-linkliste.py`
+- `afd-verbot-print-proofs.py`
+- `pdf-to-md.sh`
+- `split_pdf.py`
+- `split10_pdf.py`
+- `bulk_ocr_pdfs_to_md.py`
+- `setup_all_ocr_deps.sh`
+- `dependencies.sh`
+- `afd-verbot-deepresearch-ausgangspunkt_split_1.txt`
+- `afd-verbot-deepresearch-ausgangspunkt_split_2.txt`
+- `afd-verbot-deepresearch-ausgangspunkt_split_3.txt`
+- `afd-verbot-deepresearch-ausgangspunkt_split_4.txt`
+- `afd-verbot-deepresearch-ausgangspunkt_split_5.txt`
+- `afd-verbot-deepresearch-ausgangspunkt_split_6.txt`
+- `afd-verbot-deepresearch-ausgangspunkt_split_7.txt`
+- `afd-verbot-deepresearch-ausgangspunkt_split_8.txt`
+
+### G) Bilder & Assets (2)
+- `afd-politiker-krah-mit-waffe.jpg`
+- `zusammenarbeit-adj-rechtsextreme.jpg`
+
+---
+
+### H) Sonstiges / Notizen (66)
+- `PUBLIC_SOURCES.md`
+- `leicht zugängliche Quellen.txt`
+- `quellen.pdf`
+- diverse Pressespiegel‑PDFs und Projektmemos (vollständig im Repo enthalten)
+
+---
+
+## 2) Navigations‑Blöcke (für die README)
+
+### 📁 Schnellzugriff auf Kerndossiers
+- **Klageschrift** → `ENTWURF KLAGESCHRIFT*.pdf`  
+- **BfV/BMI/Bundestag** → Abschnitt **C) Amtliche Quellen**  
+- **Geheimgutachten (OCR)** → Abschnitt **D)**  
+- **Belege (afd‑verbot.de)** → Ordner `zitate/` + `afd-verbot.de-scrape-link-liste.txt`  
+- **Skripte** → Abschnitt **F)**
+
+### 🔎 Suchtipps (README‑Snippet)
+```bash
+# Beispiel: paramilitärische Belege aus den Proofs
+rg -n --iglob 'zitate/*.md' -e 'paramilitär|Kampfsport|Active Club|Schieß|Waffen'
+
+# Beispiel: Volksbegriff-/Menschenwürde-Fundstellen in Geheimgutachten
+rg -n --iglob 'Geheimgutachten_*' -e 'Volksbegriff|Menschenwürde|ethnisch|völkisch'
+
+
+
 ## Nutzung
 
 1. **Repository klonen**
