@@ -564,6 +564,58 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 
 ---
 
+# BFV-Gutachten zur AfD und Parteiverbot
+
+## Hintergrund
+- Erstellt vom **Bundesamt für Verfassungsschutz (BfV)**.  
+- Gegenstand: Prüfung, ob die AfD als **gesichert rechtsextremistische Bestrebung** einzustufen ist.  
+- Zentral für Diskussion um ein mögliches **Parteiverbot nach Art. 21 Abs. 2 GG**.  
+
+---
+
+## Zentrale Befunde
+1. **Ideologische Ausrichtung**
+   - Programmatische Nähe zur **völkischen Ideologie**.  
+   - Delegitimierung der freiheitlichen demokratischen Grundordnung (FDGO).  
+   - Systematische Verächtlichmachung demokratischer Institutionen.
+
+2. **Personelle Verbindungen**
+   - Netzwerke mit **rechtsextremen Gruppierungen** und deren Protagonisten.  
+   - Radikalisierungstendenzen im Parteiflügel um Höcke und Kalbitz.  
+
+3. **Praktische Wirkung**
+   - AfD nutzt parlamentarische Mandate zur **Agitation gegen FDGO**.  
+   - Verbindung von legaler Parteiarbeit mit außerparlamentarischen extremistischen Bewegungen.  
+
+---
+
+## Juristische Bewertung
+- Voraussetzungen für ein Verbot nach Art. 21 Abs. 2 GG:
+  1. **Ziele oder Verhalten** müssen gegen FDGO gerichtet sein.  
+  2. **Potenzial zur Umsetzung** (konkrete Gefährdung).  
+- Das Gutachten betont:
+  - **Klare Anhaltspunkte** für Verfassungsfeindlichkeit.  
+  - Noch **umstrittene Einschätzung** zur Durchsetzungsfähigkeit.  
+
+---
+
+## Politische Dimension
+- Gutachten liefert **starkes Argumentarium** für ein Verbotsverfahren.  
+- Entscheidung obliegt jedoch:
+  - Bundestag, Bundesrat oder Bundesregierung (Antragstellung).  
+  - Bundesverfassungsgericht (Urteil).  
+- Politisch riskant, da AfD sich als „Opfer“ inszenieren könnte.  
+
+---
+
+## Fazit
+- Das Gutachten untermauert die **Einstufung der AfD als verfassungsfeindlich**.  
+- Es bildet eine **juristische Grundlage**, reicht allein aber noch nicht als Verbotsantrag.  
+- Wichtig bleibt: weitere Dokumentation von **konkreten Handlungen**, die auf die Beseitigung der FDGO abzielen.
+
+
+---
+
 Hier alle 15 Verbotsgründe:
 
 1. Verfassungswidrige Zielsetzung
