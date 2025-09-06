@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "strategy": "size<=24MiB, keep-context-by-sha256",
+  "target_bytes": 25165824,
+  "created": "2025-09-06T16:38:49.792830Z",
+  "sources": [
+    {
+      "class": "A",
+      "claim": "aktuelle_gefahr",
+      "file": "group_A_aktuelle_gefahr.jsonl",
+      "docs": 30,
+      "lines": 3046
+    },
+    {
+      "class": "A",
+      "claim": "potenzial",
+      "file": "group_A_potenzial.jsonl",
+      "docs": 30,
+      "lines": 2346
+    },
+    {
+      "class": "A",
+      "claim": "zielrichtung",
+      "file": "group_A_zielrichtung.jsonl",
+      "docs": 29,
+      "lines": 2146
+    }
+  ],
+  "shards": [
+    {
+      "class": "A",
+      "claim": "aktuelle_gefahr",
+      "shard": "A__aktuelle_gefahr__0000.jsonl",
+      "rows": 4630,
+      "bytes": 3676683,
+      "sha256": "1a532b61c60ce1f6115face080d0cd02d1e20579ed84a96f1de6d6f31102aa76"
+    },
+    {
+      "class": "A",
+      "claim": "potenzial",
+      "shard": "A__potenzial__0000.jsonl",
+      "rows": 3692,
+      "bytes": 2904250,
+      "sha256": "3633f69adffa49a4f66834140f28df028ebd0cd2762a4969d752f035798fe956"
+    },
+    {
+      "class": "A",
+      "claim": "zielrichtung",
+      "shard": "A__zielrichtung__0000.jsonl",
+      "rows": 3437,
+      "bytes": 2682905,
+      "sha256": "ac17a110ab901d8fb1ec2c83ef2dbdd4b26c5fdfdf439437d71e0300c568792a"
+    }
+  ]
+}
