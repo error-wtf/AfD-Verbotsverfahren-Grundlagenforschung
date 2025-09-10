@@ -122,7 +122,6 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | `part7_313-364.pdf` | Seiten 313–364 |
 | `part8_365-412.pdf` | Seiten 365–412 |
 | Geheimgutachten | Splits |
-| Datei                                                                | Beschreibung                            |
 | -------------------------------------------------------------------- | --------------------------------------- |
 | `Geheimgutachten_Teil_A_pages_1_to_100.txt`                          | Teil A, S. 1–100                        |
 | `Geheimgutachten_Teil_A_pages_201_to_300.txt`                        | Teil A, S. 201–300                      |
