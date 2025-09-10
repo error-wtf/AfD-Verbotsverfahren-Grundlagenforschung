@@ -101,6 +101,27 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | `www_verfassungsschutz_de_…-2024.html`                                                                           | Kurzfassung Verfassungsschutzbericht 2024 (Web‑Version)                                                                              |
 | `www_bmi_bund_de_…vsb2023-BMI24018.pdf`                                                                          | Volltext Verfassungsschutzbericht 2023 (BMI)                                                                                         |
 | `www_bmi_bund_de_…BMI25029-vsb2024.pdf`                                                                          | Volltext Verfassungsschutzbericht 2024 (BMI)                                                                                         |
+| LfV-Jahresbericht 2024 | Hessen |
+| ------------------------------------------ | -------------- |
+| `lfv_jahresbericht_2024_part1_1-25.pdf`    | Seiten 1–25    |
+| `lfv_jahresbericht_2024_part2_26-50.pdf`   | Seiten 26–50   |
+| `lfv_jahresbericht_2024_part3_51-75.pdf`   | Seiten 51–75   |
+| `lfv_jahresbericht_2024_part4_76-100.pdf`  | Seiten 76–100  |
+| `lfv_jahresbericht_2024_part5_101-125.pdf` | Seiten 101–125 |
+| `lfv_jahresbericht_2024_part6_126-150.pdf` | Seiten 126–150 |
+| `lfv_jahresbericht_2024_part7_151-175.pdf` | Seiten 151–175 |
+| `lfv_jahresbericht_2024_part8_176-199.pdf` | Seiten 176–199 |
+| LfV-Jahresbericht 2024             | Bund  |
+| ------------------- | -------------- |
+| `part1_1-52.pdf`    | Seiten 1–52    |
+| `part2_53-104.pdf`  | Seiten 53–104  |
+| `part3_105-156.pdf` | Seiten 105–156 |
+| `part4_157-208.pdf` | Seiten 157–208 |
+| `part5_209-260.pdf` | Seiten 209–260 |
+| `part6_261-312.pdf` | Seiten 261–312 |
+| `part7_313-364.pdf` | Seiten 313–364 |
+| `part8_365-412.pdf` | Seiten 365–412 |
+| Geheimgutachten | Splits |
 | **Studien & NGO‑Berichte**                                                                                       |                                                                                                                                      |
 | `01_cemas.io_en_blog_active-clubs-in-germany…pdf`                                                                | Gerenderte HTML‑Studie „Active Clubs in Germany“ (CeMAS)                                                                             |
 | `02_www_institut-fuer-menschenrechte_de_…Analyse_Warum_die_AfD_verboten…pdf`                                     | Analyse „Warum die AfD verboten werden könnte“ (Institut für Menschenrechte)                                                         |
