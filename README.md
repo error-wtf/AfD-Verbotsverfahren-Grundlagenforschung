@@ -122,6 +122,19 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | `part7_313-364.pdf` | Seiten 313–364 |
 | `part8_365-412.pdf` | Seiten 365–412 |
 | Geheimgutachten | Splits |
+| Datei                                                                | Beschreibung                            |
+| -------------------------------------------------------------------- | --------------------------------------- |
+| `Geheimgutachten_Teil_A_pages_1_to_100.txt`                          | Teil A, S. 1–100                        |
+| `Geheimgutachten_Teil_A_pages_201_to_300.txt`                        | Teil A, S. 201–300                      |
+| `Geheimgutachten_Teil_A_pages_301_to_400.txt`                        | Teil A, S. 301–400                      |
+| `Geheimgutachten_Teil_A_pages_401_to_500.txt`                        | Teil A, S. 401–500                      |
+| `Geheimgutachten_Teil_A_pages_501_to_508.txt`                        | Teil A, S. 501–508                      |
+| `Geheimgutachten_Teil_B_pages_1_to_100.txt`                          | Teil B, S. 1–100                        |
+| `Geheimgutachten_Teil_B_pages_101_to_200.txt`                        | Teil B, S. 101–200                      |
+| `Geheimgutachten_Teil_B_pages_201_to_300.txt`                        | Teil B, S. 201–300                      |
+| `Geheimgutachten_Teil_B_pages_301_to_400.txt`                        | Teil B, S. 301–400                      |
+| `Geheimgutachten_Teil_B_pages_401_to_500.txt`                        | Teil B, S. 401–500                      |
+| `Geheimgutachten_Teil_B_pages_501_to_600_repaired_pages_1_to_10.txt` | Teil B, S. 501–600 (repariert, Auszüge) |
 | **Studien & NGO‑Berichte**                                                                                       |                                                                                                                                      |
 | `01_cemas.io_en_blog_active-clubs-in-germany…pdf`                                                                | Gerenderte HTML‑Studie „Active Clubs in Germany“ (CeMAS)                                                                             |
 | `02_www_institut-fuer-menschenrechte_de_…Analyse_Warum_die_AfD_verboten…pdf`                                     | Analyse „Warum die AfD verboten werden könnte“ (Institut für Menschenrechte)                                                         |
