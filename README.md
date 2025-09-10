@@ -116,8 +116,7 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | `Geheimgutachten_Teil_B_pages_501_to_600*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 501–600 (mehrere reparierte Versionen) |
 | `Geheimgutachten_Teil_B_pages_601_to_609*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 601–609 (reparierte Versionen) |
 | -------------------------------------------------------------------- | --------------------------------------- |
-| #### BfV-Verfassungsschutzbericht 2024 (PDF-Splits) | |
-| ------------------- | -------------- |
+| **BfV-Verfassungsschutzbericht 2024 (PDF-Splits)** | |
 | `part1_1-52.pdf`    | Seiten 1–52    |
 | `part2_53-104.pdf`  | Seiten 53–104  |
 | `part3_105-156.pdf` | Seiten 105–156 |
@@ -126,8 +125,8 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | `part6_261-312.pdf` | Seiten 261–312 |
 | `part7_313-364.pdf` | Seiten 313–364 |
 | `part8_365-412.pdf` | Seiten 365–412 |
-| ####LfV Hessen Jahresbericht 2024 (PDF-Splits) | |
-| ------------------------------------------ | -------------- |
+| -------------------------------------------------------------------- | --------------------------------------- |
+|**LfV Hessen Jahresbericht 2024 (PDF-Splits)** | |
 | `lfv_jahresbericht_2024_part1_1-25.pdf`    | Seiten 1–25    |
 | `lfv_jahresbericht_2024_part2_26-50.pdf`   | Seiten 26–50   |
 | `lfv_jahresbericht_2024_part3_51-75.pdf`   | Seiten 51–75   |
