@@ -102,38 +102,37 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 | `www_bmi_bund_de_…vsb2023-BMI24018.pdf`                                                                          | Volltext Verfassungsschutzbericht 2023 (BMI)                                                                                         |
 | `www_bmi_bund_de_…BMI25029-vsb2024.pdf`                                                                          | Volltext Verfassungsschutzbericht 2024 (BMI)                                                                                         |
 | ------------------------------------------ | -------------- |
-| LfV-Jahresbericht 2024 | Hessen |
-| `lfv_jahresbericht_2024_part1_1-25.pdf`    | Seiten 1–25    |
-| `lfv_jahresbericht_2024_part2_26-50.pdf`   | Seiten 26–50   |
-| `lfv_jahresbericht_2024_part3_51-75.pdf`   | Seiten 51–75   |
-| `lfv_jahresbericht_2024_part4_76-100.pdf`  | Seiten 76–100  |
-| `lfv_jahresbericht_2024_part5_101-125.pdf` | Seiten 101–125 |
-| `lfv_jahresbericht_2024_part6_126-150.pdf` | Seiten 126–150 |
-| `lfv_jahresbericht_2024_part7_151-175.pdf` | Seiten 151–175 |
-| `lfv_jahresbericht_2024_part8_176-199.pdf` | Seiten 176–199 |
-| ------------------- | -------------- |
-| LfV-Jahresbericht 2024             | Bund  |
-| `part1_1-52.pdf`    | Seiten 1–52    |
-| `part2_53-104.pdf`  | Seiten 53–104  |
-| `part3_105-156.pdf` | Seiten 105–156 |
-| `part4_157-208.pdf` | Seiten 157–208 |
-| `part5_209-260.pdf` | Seiten 209–260 |
-| `part6_261-312.pdf` | Seiten 261–312 |
-| `part7_313-364.pdf` | Seiten 313–364 |
-| `part8_365-412.pdf` | Seiten 365–412 |
-| -------------------------------------------------------------------- | --------------------------------------- |
-| Geheimgutachten | Splits |
-| `Geheimgutachten_Teil_A_pages_1_to_100.txt`                          | Teil A, S. 1–100                        |
-| `Geheimgutachten_Teil_A_pages_201_to_300.txt`                        | Teil A, S. 201–300                      |
-| `Geheimgutachten_Teil_A_pages_301_to_400.txt`                        | Teil A, S. 301–400                      |
-| `Geheimgutachten_Teil_A_pages_401_to_500.txt`                        | Teil A, S. 401–500                      |
-| `Geheimgutachten_Teil_A_pages_501_to_508.txt`                        | Teil A, S. 501–508                      |
-| `Geheimgutachten_Teil_B_pages_1_to_100.txt`                          | Teil B, S. 1–100                        |
-| `Geheimgutachten_Teil_B_pages_101_to_200.txt`                        | Teil B, S. 101–200                      |
-| `Geheimgutachten_Teil_B_pages_201_to_300.txt`                        | Teil B, S. 201–300                      |
-| `Geheimgutachten_Teil_B_pages_301_to_400.txt`                        | Teil B, S. 301–400                      |
-| `Geheimgutachten_Teil_B_pages_401_to_500.txt`                        | Teil B, S. 401–500                      |
-| `Geheimgutachten_Teil_B_pages_501_to_600_repaired_pages_1_to_10.txt` | Teil B, S. 501–600 (repariert, Auszüge) |
+| **Geheimgutachten (OCR-Splits)** | |
+| `Geheimgutachten_Teil_A_pages_1_to_100.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 1–100 |
+| `Geheimgutachten_Teil_A_pages_201_to_300.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 201–300 |
+| `Geheimgutachten_Teil_A_pages_301_to_400.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 301–400 |
+| `Geheimgutachten_Teil_A_pages_401_to_500.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 401–500 |
+| `Geheimgutachten_Teil_A_pages_501_to_508.txt` | OCR-Teilstück BfV-Gutachten Teil A, S. 501–508 |
+| `Geheimgutachten_Teil_B_pages_1_to_100.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 1–100 |
+| `Geheimgutachten_Teil_B_pages_101_to_200.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 101–200 |
+| `Geheimgutachten_Teil_B_pages_201_to_300.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 201–300 |
+| `Geheimgutachten_Teil_B_pages_301_to_400.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 301–400 |
+| `Geheimgutachten_Teil_B_pages_401_to_500.txt` | OCR-Teilstück BfV-Gutachten Teil B, S. 401–500 |
+| `Geheimgutachten_Teil_B_pages_501_to_600*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 501–600 (mehrere reparierte Versionen) |
+| `Geheimgutachten_Teil_B_pages_601_to_609*.txt` | OCR-Teilstücke BfV-Gutachten Teil B, S. 601–609 (reparierte Versionen) |
+| **Plenarprotokoll-Splits** | |
+| `part1_1-52.pdf` | Plenarprotokoll 203. Sitzung (Anhörung Verfassungsschutz, 05.12.2024), S. 1–52 |
+| `part2_53-104.pdf` | Plenarprotokoll 203, S. 53–104 |
+| `part3_105-156.pdf` | Plenarprotokoll 203, S. 105–156 |
+| `part4_157-208.pdf` | Plenarprotokoll 203, S. 157–208 |
+| `part5_209-260.pdf` | Plenarprotokoll 203, S. 209–260 |
+| `part6_261-312.pdf` | Plenarprotokoll 203, S. 261–312 |
+| `part7_313-364.pdf` | Plenarprotokoll 203, S. 313–364 |
+| `part8_365-412.pdf` | Plenarprotokoll 203, S. 365–412 |
+| **LfV-Jahresbericht 2024 (Splits)** | |
+| `lfv_jahresbericht_2024_part1_1-25.pdf` | LfV-Jahresbericht 2024, Teil 1, S. 1–25 |
+| `lfv_jahresbericht_2024_part2_26-50.pdf` | LfV-Jahresbericht 2024, Teil 2, S. 26–50 |
+| `lfv_jahresbericht_2024_part3_51-75.pdf` | LfV-Jahresbericht 2024, Teil 3, S. 51–75 |
+| `lfv_jahresbericht_2024_part4_76-100.pdf` | LfV-Jahresbericht 2024, Teil 4, S. 76–100 |
+| `lfv_jahresbericht_2024_part5_101-125.pdf` | LfV-Jahresbericht 2024, Teil 5, S. 101–125 |
+| `lfv_jahresbericht_2024_part6_126-150.pdf` | LfV-Jahresbericht 2024, Teil 6, S. 126–150 |
+| `lfv_jahresbericht_2024_part7_151-175.pdf` | LfV-Jahresbericht 2024, Teil 7, S. 151–175 |
+| `lfv_jahresbericht_2024_part8_176-199.pdf` | LfV-Jahresbericht 2024, Teil 8, S. 176–199 |
 | -------------------------------------------------------------------- | --------------------------------------- |
 | **Studien & NGO‑Berichte**                                                                                       |                                                                                                                                      |
 | `01_cemas.io_en_blog_active-clubs-in-germany…pdf`                                                                | Gerenderte HTML‑Studie „Active Clubs in Germany“ (CeMAS)                                                                             |
