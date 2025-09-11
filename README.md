@@ -339,12 +339,13 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 - `theguardian.com_world_2025_may_03_germany-security-service-labels-afd-extremist`
 - `spiegel.de_politik_deutschland_roedder-warnt-vor-buergerkrieg…12345678.html`
 
-## Presse / Medienberichte (PDF-Spiegel)
+## Presse / Medienberichte
 - `03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
 - `04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
 - `09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
 - `10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
 - `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
+- `Urteile gegen Höcke wegen NS-Parole rechtskräftig.pdf`
 
 ## Presseberichte mit Amtsbezug
 - `Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse – SZ.de.pdf`
