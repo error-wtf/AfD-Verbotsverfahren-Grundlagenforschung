@@ -826,6 +826,13 @@ Alle Quellenangaben sind in den Dateien enthalten.
 https://afd-verbot.de
 
 ---
+Wer mir Hinweise, Artikel oder Beweise schicken will kann das hier:
+https://fileinbox.com/afd-verbot-sammelbox
+
+Bevorzugt werden PDF-, MD, und TXT Dateien.
+Einfach Artikel oder Quelle als PDF drucken und Uploaden.
+
+---
 
 zusätzlich empfehle ich:
 https://github.com/LinoCasu/TODESSTATISTIKEN
