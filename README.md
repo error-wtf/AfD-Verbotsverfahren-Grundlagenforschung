@@ -829,7 +829,7 @@ Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen,
 Wer mir Hinweise, Artikel oder Beweise schicken will kann das hier:
 https://fileinbox.com/afd-verbot-sammelbox
 
-Bevorzugt werden PDF-, MD, und TXT Dateien.
+Bevorzugt werden PDF-, MD-, und TXT-Dateien.
 Einfach Artikel oder Quelle als PDF drucken und Uploaden.
 
 ---
