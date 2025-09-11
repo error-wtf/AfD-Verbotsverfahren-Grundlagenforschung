@@ -411,7 +411,7 @@ Dort sind u. a. enthalten:
 - Juristische Referenzen (BVerfG, BVerfGG, § 21 GG)
 - Hinweise auf nicht-öffentliche, aber alternative öffentlich zugängliche Dokumente
 
-→ Diese Datei dient als verbindlicher Kern-Nachweis der Zitate und Argumentationslinien:contentReference[oaicite:1]{index=1}.
+→ Diese Datei dient als verbindlicher Kern-Nachweis der Zitate und Argumentationslinien.
 
 ---
 
