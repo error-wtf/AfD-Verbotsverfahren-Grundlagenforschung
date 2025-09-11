@@ -277,7 +277,7 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 - (sowie 2 DW‑PDF‑Clippings zum Einstufungsverfahren; als Kontext eingefügt)
 
 ---
-## Primärquelle ergänzen
+## Primärquelle ergänzt
 - `AfD_Bundestagswahlprogramm2025_web.pdf`
 --- 
 ### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3 614)
