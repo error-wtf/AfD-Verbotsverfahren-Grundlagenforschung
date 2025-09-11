@@ -341,7 +341,7 @@ Ich habe mal das Leak für eine KI aufbereitet. Der Verfassungsschutzbericht ist
 - `theguardian.com_world_2025_may_03_germany-security-service-labels-afd-extremist`
 - `spiegel.de_politik_deutschland_roedder-warnt-vor-buergerkrieg…12345678.html`
 
-## Presse / Medienberichte
+## Presse / Medienberichte (PDF)
 - `03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
 - `04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
 - `09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
