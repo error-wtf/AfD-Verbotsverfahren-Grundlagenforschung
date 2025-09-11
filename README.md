@@ -478,13 +478,6 @@ Dort sind u. a. enthalten:
 5. Wenn wirklich ein Verbotsverfahren anfangen sollte und Sie Staatsanwalt sind, finden sie Möglichkeiten, die noch nicht zugänglichen Quellen in [`quellen.pdf`](./quellen.pdf) , dem Gericht zugänglich zu machen
 
    
-## Mitwirkung
-
-Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen, wenn:
-- Du inhaltliche Ergänzungen zu den 15 Verbotsgründen hast.
-- Du fehlerhafte Zitate oder Inkonsistenzen in den Fragmente-Dateien findest.
-- Du Vorschläge zur Struktur oder zum Aufbau der Klageschrift hast.
-
 ---
 ## KI-gestützte Analyse und Automatisierung
 
@@ -826,6 +819,13 @@ Alle Quellenangaben sind in den Dateien enthalten.
 https://afd-verbot.de
 
 ---
+## Mitwirkung
+
+Beiträge sind willkommen! Bitte Issues eröffnen oder Pull Requests einreichen, wenn:
+- Du inhaltliche Ergänzungen zu den 15 Verbotsgründen hast.
+- Du fehlerhafte Zitate oder Inkonsistenzen in den Fragmente-Dateien findest.
+- Du Vorschläge zur Struktur oder zum Aufbau der Klageschrift hast.
+
 Wer mir Hinweise, Artikel oder Beweise schicken will kann das hier:
 https://fileinbox.com/afd-verbot-sammelbox
 
