@@ -779,3 +779,8 @@ Alle Quellenangaben sind in den Dateien enthalten.
 
 
 https://afd-verbot.de
+
+---
+
+zusätzlich empfehle ich:
+https://github.com/LinoCasu/TODESSTATISTIKEN
