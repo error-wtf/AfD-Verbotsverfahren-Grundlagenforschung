@@ -225,6 +225,25 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 - `09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
 - `10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
 - `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
+- BfV-Verfassungsschutzbericht 2024 (PDF-Splits):
+- `part1_1-52.pdf`
+- `part2_53-104.pdf`
+- `part3_105-156.pdf`
+- `part4_157-208.pdf`
+- `part5_209-260.pdf`
+- `part6_261-312.pdf`
+- `part7_313-364.pdf`
+- `part8_365-412.pdf`
+- LfV Hessen Jahresbericht 2024 (PDF-Splits):
+- `lfv_jahresbericht_2024_part1_1-25.pdf`
+- `lfv_jahresbericht_2024_part2_26-50.pdf`
+- `lfv_jahresbericht_2024_part3_51-75.pdf`
+- `lfv_jahresbericht_2024_part4_76-100.pdf`
+- `lfv_jahresbericht_2024_part5_101-125.pdf`
+- `lfv_jahresbericht_2024_part6_126-150.pdf`
+- `lfv_jahresbericht_2024_part7_151-175.pdf`
+- `lfv_jahresbericht_2024_part8_176-199.pdf`
+- `nsu-akten-gratis.pdf`
 
 > Hinweis: Einige Pressestücke sind hier eingeordnet, weil sie amtliche Einstufungen/Verfahrensstände dokumentieren. In der README kann man sie als **Sekundärbelege zu amtlichen Vorgängen** kennzeichnen.
 
@@ -256,7 +275,9 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 - (sowie 2 DW‑PDF‑Clippings zum Einstufungsverfahren; als Kontext eingefügt)
 
 ---
-
+## Primärquelle ergänzen
+- `AfD_Bundestagswahlprogramm2025_web.pdf`
+--- 
 ### E) Zitate & Belege (afd‑verbot.de / Proof‑Sammlung) (3 614)
 - Ordner: `zitate/`
 - Struktur: `afd-verbot.de-<YYYY-MM-DD>-proof-xxxxx.md`  
@@ -306,6 +327,29 @@ Es ist **kein** fertiges Dossier und **ersetzt nicht** die professionelle Beweis
 - `quellen.pdf`
 - diverse Pressespiegel‑PDFs und Projektmemos (vollständig im Repo enthalten)
 
+---
+## Presse / Medienberichte (HTML)
+- `www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-100.html`
+- `www.zdfheute.de_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html`
+- `www.dw.com_de_afd-einstufung-verfassungsschutz…-a-72478906`
+- `www.tagesschau.de_afd-systemmedien-101.html`
+- `www_belltower.news_rassistische-narrative…-144885`
+- `www.mdr.de_investigativ_chat-leaks-afd-thueringen-102.html`
+- `reuters.com_article_germany-security-agency-extremist-idUSKBN2XX0ZY`
+- `theguardian.com_world_2025_may_03_germany-security-service-labels-afd-extremist`
+- `spiegel.de_politik_deutschland_roedder-warnt-vor-buergerkrieg…12345678.html`
+
+## Presse / Medienberichte (PDF-Spiegel)
+- `03_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
+- `04_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
+- `09_www.deutschlandfunk.de_afd-einstufung-verfassungsschutz-rechtsextrem-100.html.pdf`
+- `10_www.zdfheute.de_politik_deutschland_afd-verfassungsschutz-gutachten-rechtsextremistisch-100.html.pdf`
+- `22_www.tagesschau.de_inland_innenpolitik_afd-rechtsextrem-verfassungsschutz-100.html.pdf`
+
+## Presseberichte mit Amtsbezug
+- `Bundestag_ Missbraucht die AfD die Kleinen Anfragen_ Eine Datenanalyse – SZ.de.pdf`
+- `Bundestagsverwaltung_ Wahlplakat-Spende an AfD war unzulässig.pdf`
+- `AfD-Spende_ Bundestag sieht Tatverdacht bestätigt.pdf`
 ---
 
 ## 2) Navigations‑Blöcke (für die README)
